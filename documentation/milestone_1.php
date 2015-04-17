@@ -6,7 +6,6 @@
 	</head>
 	<header><h3>Laura O's Personal Website - Milestone 1</h3></header>
 	<body>
-
 		<h3>Purpose:</h3>
 		<p>The purpose of my website to serve as a virtual exhibition space for my current work, a virtual museum space for my
 		older work, and to provide a way for students to learn about my classes and collectors to purchase my work.</p>
