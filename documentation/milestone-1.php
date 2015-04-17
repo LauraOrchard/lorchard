@@ -2,7 +2,7 @@
 <html>
 	<head lang="en">
 		<meta charset="UTF-8">
-		<title>Laura O's Personal Website - Milestone 1</title>
+		<title>Laura O's PWP - Milestone 1</title>
 	</head>
 	<header><h3>Laura O's Personal Website - Milestone 1</h3></header>
 	<body>
