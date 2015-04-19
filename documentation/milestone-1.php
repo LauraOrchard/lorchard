@@ -11,13 +11,11 @@
 			in order to gain contract or corporate employment.</p>
 		<h3>Audience:</h3>
 		<p>The audience will be any person or organization that has a need for my skills, and whose values are in alignment with my own.
-		I prefer to work with organizations or on products that will enhance or benefit life on this planet in one way or another.</p>
+		I prefer to work with organizations - or on products - that will enhance or benefit life on this planet in one way or another.</p>
 		<h3>Goals:</h3>
 			<ul>
-				<li>To present my information in a well-written, creative, eye-catching (but technically sophisticated) format;</li>
-				<li>To make it easy for clients to understand what my expertise is;</li>
-				<li>To make my portfolio of work quickly accessible;</li>
-				<li>To make it easy to contact me.</li>
+				<li>To attract clients and colleagues in the web development field to hire me;</li>
+				<li>To connect with like-minded people who strive to work for the greater good.</li>
 			</ul>
 	</body>
 </html>
