@@ -14,7 +14,7 @@
 		I prefer to work with organizations or on products that will enhance or benefit life on this planet in one way or another.</p>
 		<h3>Goals:</h3>
 			<ul>
-				<li>To present my information in a creative, eye-catching (but technically sophisticated) format;</li>
+				<li>To present my information in a well-written, creative, eye-catching (but technically sophisticated) format;</li>
 				<li>To make it easy for clients to understand what my expertise is;</li>
 				<li>To make my portfolio of work quickly accessible;</li>
 				<li>To make it easy to contact me.</li>
