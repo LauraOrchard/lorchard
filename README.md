@@ -1,3 +1,3 @@
 # lorchard
 The Small Orange domain
-A website to showcase Laura's fine art portfolio, her drawing classes, and provide a place for buyers to purchase art prints online.
+A website to showcase Laura's web development skills and other IT experience for those in need of her expertise.
