@@ -111,11 +111,67 @@ a proposed sitemap, and proposed features and functionality. - - >
 			maintain the site and the list. They also need a strategy regarding document management for a virtual office.</li>
 		</ul>
 
+		<h2>Use Cases</h2>
+		<p><strong>#1 Contract Client:</strong></p>
+		<p>In LinkedIn, Julie Criss Gibson is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn email in July suggesting she congratulate me on starting my new job as a web developer.</p>
+
+		<ol>
+			<li>After posting the congratulations note on my profile, she clicks on the link to my new website from my LinkedIn profile page.</li>
+			<li>From my Home page she clicks on the Services page to see what my skills include.</li>
+			<li>She then navigates to the Work page to see my samples. After a few minutes of examining the quality of my work, she clicks on the About page and is surprised to see I’ve chosen a similar clientele to hers.</li>
+			<li>From the Contact Me page, she clicks on my contact information to update her address book automatically.</li>
+			<li>She sends an email, rather than using the contact form, saying she’ll be in New Mexico the following month and would like to set up some time to show me some junior-level work she needs done.</li>
+			<li>From this point, the interaction is via email.</li>
+		</ol>
+		<p>[inert flowchart]</p>
+
+		<p><strong>#2 Employer:</strong></p>
+
+		<p>Fusion Labs has a full-time recruiter scouring the Internet for anyone with Blackbaud, Proffer, FinancialEdge, Raiser’s Edge, GrantedGe, or NetCommunity experience. My new site just came up in the results for the first time, so she includes my URL in a list of potential candidates to Fred Armisted. He remembers my name from the beta site he managed during Fusion’s early years.</p>
+		<ol>
+			<li>Fred lands on the Home page and quickly navigates to the Services page.</li>
+			<li>He skims the Services page to see what I’ve done since we last met. Although my experience as a coder is thin, my familiarity with the functionality of six key products in his arsenal puts me into the <em>project management</em> category for Fusion.</li>
+			<li>Fred has his recruiter contact me by phone for an interview.</li>
+			<li>All interaction from this point is by phone and email.</li>
+		</ol>
+		<p>[insert flowchart]</p>
 
 
+		<p><strong>#3 Private Client:</strong></p>
+		<p>The Santa Fe Meditation Circle board knows me as a fine artist but was told about my new business and have my business card. The three board members are looking at my site together on a laptop at a coffee shop where they are having a brief meeting.</p>
 
+		<ol>
+			<li>Having been given my website URL, they navigate to my site my Home page, where they see clickable options for About, Work, Services, and Contact.</li>
+			<li>They are reading each page with care, as they want to get an idea of my skills and pricing.</li>
+			<li>On the About page, they discover that each year I accept a certain amount of pro-bono projects that require a fee-based maintenance agreement.</li>
+			<li>They click on the Contact page, and rather than call me at that point, they decide fill out the contact form asking me to a meeting with the board.</li>
+			<li>At this point it becomes an email conversation.</li>
+		</ol>
+		<p>[insert flowchart]</p>
 
+		<h2>Proposed Site Map</h2>
+		<p>The minimum viable product for my site will consist of 5 top-level pages, with the potential for sub-pages under the
+			Work category. Each page is an opportunity to make my values and needs known to the viewer:</p>
+		<p><strong>Home</strong>: The home page is mainly visual with a short introduction. It will contain both obvious and subtle links to the
+			other 4 pages. This page introduces the template for the whole site.</p>
+		<p><strong>Work</strong>: A grid of images that will reflect the various portfolio projects I have completed. Clicking on the image will expand it to reveal additional explanatory text (client, role played, technology, partners involved).</p>
+		<p><strong>About</strong>: A brief outline of myself and my focus on creating positive change through human-centered and holistic design. This page will include references to my background in fine art.</p>
+		<p><strong>Services</strong>: A description of the specific services I provide, my skills, and experience with various technology platforms, web development, programming and project management. This section will be edited as my work experience builds. This page will also include a description of my philosophical approach to building long-standing relationships with organizations and people who are creating positive change.</p>
+		<p><strong>Contact</strong>: Basic contact information and a contact form.</p>
+		<p>Insert Sit Map Image</p>
 
+		<h2>Proposed Features and Functionality</h2>
 
+		<ul>
+			<li>Being a simple site, there will be a top navigation bar on all pages without menu dropdowns.</li>
+			<li>If it suits the ultimate design, I’ll use Bootstrap glyph icons from the bootstrap components.</li>
+			<li>There will be navigation links on all imagery.</li>
+			<li>A footer bar will be included on all pages. It will indicate professional affiliations, social media icons, contact information, and a "Partners and Collaborators" section.</li>
+			<li>The Home page will include an animated feature that has yet to be designed (or found in a CSS library).</li>
+			<li>The Work page will display my portfolio of projects by using a Bootstrap <em>thumbnail component with custom content</em> to describe each project, including my partners and collaborators.</li>
+			<li>The use of a custom background, type-face, font colors, animation, and layout will be designed with front-end clients in mind.</li>
+			<li>The contact form will be included as required, but this will be removed later.</li>
+			<li>The content of each page will provide an opportunity to clarify my values and expectations for myself, my collaborators, and my clients.</li>
+		</ul>
 	</body>
 </html>
