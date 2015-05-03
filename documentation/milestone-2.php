@@ -20,9 +20,8 @@
 
   	<p>Below is an outline for the User Experience and Interaction Design for the Laura Orchard Personal Website Project.
 	  This project is a professional portfolio website with a focus on web development and software implementation project
-	  management. The target audiences include charitable organizations with web development or implementation project
-	  management needs, and developers of products and applications that are globally beneficial or support sustainable
-	  living. The primary goal of this site is to provide a way for potential clients, hiring managers, and contract
+	  management. The target audiences include contract employers, corporate employers, and charitable organizations with web development or implementation project
+	  management needs. The primary goal of this site is to provide a way for potential clients, hiring managers, and contract
 	  employers to see my work and contact me for employment opportunities.</p>
 
 	<h2>Personas</h2>
@@ -53,18 +52,18 @@
 		<ul>
 			<li><strong>Name: </strong>Fred Armisted, Chief Strategy Officer, Fusion Labs</li>
 			<li><strong>Age: </strong>65</li>
-			<li><strong>Technology: </strong>Creator of enterprise level scholarship and grants management software for
+			<li><strong>Technology: </strong>Fusion creates enterprise level scholarship and grants management software for
 				universities and nonprofits with sophisticated online interfaces; his company provides technical consulting;
 				system management and hosting; proprietary nonprofit software; and advanced technology implementation.</li>
 			<li><strong>Attitudes and Behaviors: </strong>Fusion Labs has been growing steadily for 5 years and is always
 				looking for more coding talent and project managers to keep their project pipeline flowing. Understaffed,
-				Fusion too often sends the wrong skills set to the clients for training and/or installations, which has made
+				Fusion too often sends staff with the wrong skill set to the clients for training and/or installations, which has made
 				the roll-outs less than successful for understaffed clients. The time it takes to get a charitable
 				organization up and running has been getting longer as the programming staff has taken on more peripheral tasks.</li>
 			<li><strong>Frustrations and Needs: </strong>The success of Fusion’s products have taken a bite out of their
 				chief competitor, Blackbaud, and they need to maintain this edge in order to remain a viable company. With
 				more organizations signing on for installations, they are short on programmers with experience in their
-				platform. Disorganized and/or poor project implementation has caused some clients to grumble that could
+				platform. Disorganized and/or poor project implementation has caused grumbling that could
 				cost them future business.</li>
 			<li><strong>Goals: </strong>To hire 9 senior programmers and engineers and 2 project managers as soon as
 				possible, and then determine the junior positions needed to fill in the gaps. The longer-term goal is to
@@ -92,7 +91,7 @@
 			<li><strong>Frustrations and Needs: </strong></li>
 				<ul>
 					<li>Budget – there has never been a line item for technology (only rent and utilities for the dedicated meeting space).</li>
-					<li>A demonstration of value will be necessary to prove that a professional website is the right expenditure for this group
+					<li>A <em>demonstration of value</em> will be necessary to prove that a professional website is the right expenditure for this group
 					– they will need to see an invoice for the retail price and maintenance agreement.</li>
 					<li>The circle needs a site that will emulate the parent organization’s website, providing the circle’s basic protocol,
 					schedule, contact information, and e-news sign up form.</li>
@@ -111,10 +110,10 @@
 
 		<h2>Use Cases</h2>
 		<p><strong>#1 Contract Client:</strong></p>
-		<p>In LinkedIn, Julie Criss Gibson is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn email in July suggesting she congratulate me on starting my new job as a web developer.</p>
+		<p>In LinkedIn, Julie Criss Gibson is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn notice in July suggesting she congratulate me on starting my new job as a web developer.</p>
 
 		<ol>
-			<li>After posting the congratulations note on my profile, she clicks on the link to my new website from my LinkedIn profile page.</li>
+			<li>From her iPhone, Julie posts the congratulations note on my profile, then clicks on the link to my new website from my LinkedIn profile page.</li>
 			<li>From my Home page she clicks on the Services page to see what my skills include.</li>
 			<li>She then navigates to the Work page to see my samples. After a few minutes of examining the quality of my work, she clicks on the About page and is pleasantly surprised to see I’ve chosen to focus on clientele similar to hers.</li>
 			<li>From the Contact Me page, she clicks on my contact information to update her address book automatically.</li>
@@ -127,12 +126,13 @@
 
 		<p><strong>#2 Prospective Employer:</strong></p>
 
-		<p>Fusion Labs has a full-time recruiter scouring the Internet for anyone with Blackbaud, Proffer, FinancialEdge,
+		<p>Fusion Labs has a full-time recruiter scouring the Internet on her desktop for anyone with Blackbaud, Proffer, FinancialEdge,
 			Raiser’s Edge, GrantedGe, or NetCommunity experience. My new site just came up in the results for the first
-			time, so she includes my URL in a list of potential candidates to Fred Armisted. He remembers my name from the
+			time, so she includes my URL link in a list of potential candidates to Fred Armisted. He remembers my name from the
 			beta site he managed during Fusion’s early years.</p>
 		<ol>
-			<li>Fred lands on the Home page and quickly navigates to the Services page.</li>
+			<li>Fred clicks on the URL link and lands on the Home page.</li>
+			<li> He quickly navigates to the Services page.</li>
 			<li>He skims the Services page to see what I’ve done since we last met. Although my experience as a coder is
 				thin, my familiarity with the functionality of six key products in his arsenal puts me into the
 				<em>project management</em> category for Fusion.</li>
@@ -175,7 +175,7 @@
 		<h2>Proposed Features and Functionality</h2>
 
 		<ul>
-			<li>Being a simple site, there will be a top navigation bar on all pages without menu dropdowns.</li>
+			<li>Being a simple site, there will be a top navigation bar on all pages without andy menu dropdowns.</li>
 			<li>If it suits the ultimate design, I’ll use Bootstrap glyph icons from the bootstrap components.</li>
 			<li>There will be navigation links on all imagery.</li>
 			<li>A footer bar will be included on all pages. It will indicate professional affiliations, social media icons, contact information, and a "Partners and Collaborators" section.</li>
