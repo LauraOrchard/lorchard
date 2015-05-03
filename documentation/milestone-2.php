@@ -166,7 +166,9 @@
 		<p><strong>About</strong>: A brief outline of myself and my focus on creating positive change through human-centered and holistic design. This page will include references to my background in fine art.</p>
 		<p><strong>Services</strong>: A description of the specific services I provide, my skills, and experience with various technology platforms, web development, programming and project management. This section will be edited as my work experience builds. This page will also include a description of my philosophical approach to building long-standing relationships with organizations and people who are creating positive change.</p>
 		<p><strong>Contact</strong>: Basic contact information and a contact form.</p>
-
+		<p>
+			<img src="../images/milestone2_sitemap.svg" alt="Sitemap for LOrchard.org" />
+		</p>
 
 		<h2>Proposed Features and Functionality</h2>
 
@@ -181,8 +183,6 @@
 			<li>The contact form will be included as required, but this will be removed later.</li>
 			<li>The content of each page will provide an opportunity to clarify my values and expectations for myself, my collaborators, and my clients.</li>
 		</ul>
-		<p>
-			<img src="../images/milestone2_sitemap.svg" alt="Sitemap for LOrchard.org" />
-		</p>
+
 	</body>
 </html>
