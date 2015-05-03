@@ -1,7 +1,3 @@
-<!- - Milestone II for the PWP Project includes: Key personas, a use case for each persona, a flowchart for each use case,
-a proposed sitemap, and proposed features and functionality. - - >
-
-
 <!DOCTYPE html>
 <html>
 	<head lang="en">
