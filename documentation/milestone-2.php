@@ -1,4 +1,4 @@
-<!- - This document is describing the scope of my Personal Website Project - - >
+<!-- This document is describing the scope of my Personal Website Project. In lines 31/32, the h2/p tags were being controlled by PHPStorm, so I wasn't able to modify their alignment  -->
 
 <!DOCTYPE html>
 <html>
@@ -25,6 +25,8 @@
 	  management needs. The primary goal of this site is to provide a way for potential clients, hiring managers, and contract
 	  employers to see my work and contact me for employment opportunities.
 	</p>
+
+
 
 	<h2>Personas</h2>
 		<p>
