@@ -14,7 +14,8 @@
 			Created by: 	Laura Orchard<br />
 			Created for: 	Deep Dive Coding Bootcamp, PWP Project Milestone II<br />
 			Date:		May 2, 2015<br />
-			URL:		http://lorchard.org</p>
+			URL:		http://lorchard.org
+		</p>
 
   	<h2>Introduction:</h2>
 
@@ -22,10 +23,13 @@
 	  This project is a professional portfolio website with a focus on web development and software implementation project
 	  management. The target audiences include contract employers, corporate employers, and charitable organizations with web development or implementation project
 	  management needs. The primary goal of this site is to provide a way for potential clients, hiring managers, and contract
-	  employers to see my work and contact me for employment opportunities.</p>
+	  employers to see my work and contact me for employment opportunities.
+	</p>
 
 	<h2>Personas</h2>
-		<p><strong>Persona #1: Contract Client</strong></p>
+		<p>
+			<strong>Persona #1: Contract Client</strong>
+		</p>
 		<ul>
 			<li><strong>Name: </strong>Julie Criss Gibson, founder of SJConsulting</li>
 			<li><strong>Age: </strong>42</li>
@@ -48,7 +52,9 @@
 				skills in both project management and technical training for hourly or project-based employment.</li>
 		</ul>
 
-		<p><strong>Persona #2: Prospective Employer</strong></p>
+		<p>
+			<strong>Persona #2: Prospective Employer</strong>
+		</p>
 		<ul>
 			<li><strong>Name: </strong>Fred Armisted, Chief Strategy Officer, Fusion Labs</li>
 			<li><strong>Age: </strong>65</li>
@@ -71,7 +77,9 @@
 				more seamless installations.</li>
 		</ul>
 
-		<p><strong>Persona #3: Private Client (potential pro-bono project)</strong></p>
+		<p>
+			<strong>Persona #3: Private Client (potential pro-bono project)</strong>
+		</p>
 		<ul>
 			<li><strong>Name: </strong>Santa Fe Meditation Circle</li>
 			<li><strong>Composition: </strong>an informal group (a circle) with a membership of 50-plus and a 3-person board of
@@ -109,8 +117,12 @@
 		</ul>
 
 		<h2>Use Cases</h2>
-		<p><strong>#1 Contract Client:</strong></p>
-		<p>In LinkedIn, Julie Criss Gibson is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn notice in July suggesting she congratulate me on starting my new job as a web developer.</p>
+		<p>
+			<strong>#1 Contract Client:</strong>
+		</p>
+		<p>
+			In LinkedIn, Julie Criss Gibson is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn notice in July suggesting she congratulate me on starting my new job as a web developer.
+		</p>
 
 		<ol>
 			<li>From her iPhone, Julie posts the congratulations note on my profile, then clicks on the link to my new website from my LinkedIn profile page.</li>
@@ -124,12 +136,16 @@
 			<img src="../images/milestone2_flowchart_1.svg" alt="Flowchart for Contract Client" />
 		</p>
 
-		<p><strong>#2 Prospective Employer:</strong></p>
+		<p>
+			<strong>#2 Prospective Employer:</strong>
+		</p>
 
-		<p>Fusion Labs has a full-time recruiter scouring the Internet on her desktop for anyone with Blackbaud, Proffer, FinancialEdge,
+		<p>
+			Fusion Labs has a full-time recruiter scouring the Internet on her desktop for anyone with Blackbaud, Proffer, FinancialEdge,
 			Raiser’s Edge, GrantedGe, or NetCommunity experience. My new site just came up in the results for the first
 			time, so she includes my URL link in a list of potential candidates to Fred Armisted. He remembers my name from the
-			beta site he managed during Fusion’s early years.</p>
+			beta site he managed during Fusion’s early years.
+		</p>
 		<ol>
 			<li>Fred clicks on the URL link and lands on the Home page.</li>
 			<li> He quickly navigates to the Services page.</li>
@@ -144,9 +160,13 @@
 		</p>
 
 
-		<p><strong>#3 Private Client:</strong></p>
-		<p>The Santa Fe Meditation Circle board knows me as a fine artist but was told about my new business and have my
-			business card. The three board members are looking at my site together on a laptop at a coffee shop where they are having a brief meeting.</p>
+		<p>
+			<strong>#3 Private Client:</strong>
+		</p>
+		<p>
+			The Santa Fe Meditation Circle board knows me as a fine artist but was told about my new business and have my
+			business card. The three board members are looking at my site together on a laptop at a coffee shop where they are having a brief meeting.
+		</p>
 
 		<ol>
 			<li>Having been given my website URL, they navigate to my site my Home page, where they see clickable options for About, Work, Services, and Contact.</li>
@@ -160,12 +180,20 @@
 		</p>
 
 		<h2>Proposed Site Map</h2>
-		<p>The minimum viable product for my site will consist of 5 top-level pages, with the potential for sub-pages under the
-			Work category. Each page is an opportunity to make my values and needs known to the viewer:</p>
-		<p><strong>Home</strong>: The home page is mainly visual with a short introduction. It will contain both obvious and subtle links to the
-			other 4 pages. This page introduces the template for the whole site.</p>
-		<p><strong>Work</strong>: A grid of images that will reflect the various portfolio projects I have completed. Clicking on the image will expand it to reveal additional explanatory text (client, role played, technology, partners involved).</p>
-		<p><strong>About</strong>: A brief outline of myself and my focus on creating positive change through human-centered and holistic design. This page will include references to my background in fine art.</p>
+		<p>
+			The minimum viable product for my site will consist of 5 top-level pages, with the potential for sub-pages under the
+			Work category. Each page is an opportunity to make my values and needs known to the viewer:
+		</p>
+		<p>
+			<strong>Home</strong>: The home page is mainly visual with a short introduction. It will contain both obvious and subtle links to the
+			other 4 pages. This page introduces the template for the whole site.
+		</p>
+		<p>
+			<strong>Work</strong>: A grid of images that will reflect the various portfolio projects I have completed. Clicking on the image will expand it to reveal additional explanatory text (client, role played, technology, partners involved).
+		</p>
+		<p>
+			<strong>About</strong>: A brief outline of myself and my focus on creating positive change through human-centered and holistic design. This page will include references to my background in fine art.
+		</p>
 		<p><strong>Services</strong>: A description of the specific services I provide, my skills, and experience with various technology platforms, web development, programming and project management. This section will be edited as my work experience builds. This page will also include a description of my philosophical approach to building long-standing relationships with organizations and people who are creating positive change.</p>
 		<p><strong>Contact</strong>: Basic contact information and a contact form.</p>
 		<p>
