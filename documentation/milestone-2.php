@@ -51,7 +51,7 @@ a proposed sitemap, and proposed features and functionality. - - >
 				skills in both project management and technical training for hourly or project-based employment.</li>
 		</ul>
 
-		<p><strong>Persona #2: Employer</strong></p>
+		<p><strong>Persona #2: Prospective Employer</strong></p>
 		<ul>
 			<li><strong>Name: </strong>Fred Armisted, Chief Strategy Officer, Fusion Labs</li>
 			<li><strong>Age: </strong>65</li>
@@ -118,27 +118,33 @@ a proposed sitemap, and proposed features and functionality. - - >
 		<ol>
 			<li>After posting the congratulations note on my profile, she clicks on the link to my new website from my LinkedIn profile page.</li>
 			<li>From my Home page she clicks on the Services page to see what my skills include.</li>
-			<li>She then navigates to the Work page to see my samples. After a few minutes of examining the quality of my work, she clicks on the About page and is surprised to see I’ve chosen a similar clientele to hers.</li>
+			<li>She then navigates to the Work page to see my samples. After a few minutes of examining the quality of my work, she clicks on the About page and is pleasantly surprised to see I’ve chosen to focus on clientele similar to hers.</li>
 			<li>From the Contact Me page, she clicks on my contact information to update her address book automatically.</li>
 			<li>She sends an email, rather than using the contact form, saying she’ll be in New Mexico the following month and would like to set up some time to show me some junior-level work she needs done.</li>
 			<li>From this point, the interaction is via email.</li>
 		</ol>
-		<p>[inert flowchart]</p>
+		<p><img src="../images/milestone2_flowchart_1.svg" alt="Flowchart for Contract Client" /></p>
 
-		<p><strong>#2 Employer:</strong></p>
+		<p><strong>#2 Prospective Employer:</strong></p>
 
-		<p>Fusion Labs has a full-time recruiter scouring the Internet for anyone with Blackbaud, Proffer, FinancialEdge, Raiser’s Edge, GrantedGe, or NetCommunity experience. My new site just came up in the results for the first time, so she includes my URL in a list of potential candidates to Fred Armisted. He remembers my name from the beta site he managed during Fusion’s early years.</p>
+		<p>Fusion Labs has a full-time recruiter scouring the Internet for anyone with Blackbaud, Proffer, FinancialEdge,
+			Raiser’s Edge, GrantedGe, or NetCommunity experience. My new site just came up in the results for the first
+			time, so she includes my URL in a list of potential candidates to Fred Armisted. He remembers my name from the
+			beta site he managed during Fusion’s early years.</p>
 		<ol>
 			<li>Fred lands on the Home page and quickly navigates to the Services page.</li>
-			<li>He skims the Services page to see what I’ve done since we last met. Although my experience as a coder is thin, my familiarity with the functionality of six key products in his arsenal puts me into the <em>project management</em> category for Fusion.</li>
+			<li>He skims the Services page to see what I’ve done since we last met. Although my experience as a coder is
+				thin, my familiarity with the functionality of six key products in his arsenal puts me into the
+				<em>project management</em> category for Fusion.</li>
 			<li>Fred has his recruiter contact me by phone for an interview.</li>
 			<li>All interaction from this point is by phone and email.</li>
 		</ol>
-		<p>[insert flowchart]</p>
+		<p><img src="../images/milestone2_flowchart_2.svg" alt="Flowchart for Prospective Employer" /></p>
 
 
 		<p><strong>#3 Private Client:</strong></p>
-		<p>The Santa Fe Meditation Circle board knows me as a fine artist but was told about my new business and have my business card. The three board members are looking at my site together on a laptop at a coffee shop where they are having a brief meeting.</p>
+		<p>The Santa Fe Meditation Circle board knows me as a fine artist but was told about my new business and have my
+			business card. The three board members are looking at my site together on a laptop at a coffee shop where they are having a brief meeting.</p>
 
 		<ol>
 			<li>Having been given my website URL, they navigate to my site my Home page, where they see clickable options for About, Work, Services, and Contact.</li>
@@ -147,7 +153,7 @@ a proposed sitemap, and proposed features and functionality. - - >
 			<li>They click on the Contact page, and rather than call me at that point, they decide fill out the contact form asking me to a meeting with the board.</li>
 			<li>At this point it becomes an email conversation.</li>
 		</ol>
-		<p>[insert flowchart]</p>
+		<p><img src="../images/milestone2_flowchart_3.svg" alt="Flowchart for Private Client" /></p>
 
 		<h2>Proposed Site Map</h2>
 		<p>The minimum viable product for my site will consist of 5 top-level pages, with the potential for sub-pages under the
@@ -158,7 +164,7 @@ a proposed sitemap, and proposed features and functionality. - - >
 		<p><strong>About</strong>: A brief outline of myself and my focus on creating positive change through human-centered and holistic design. This page will include references to my background in fine art.</p>
 		<p><strong>Services</strong>: A description of the specific services I provide, my skills, and experience with various technology platforms, web development, programming and project management. This section will be edited as my work experience builds. This page will also include a description of my philosophical approach to building long-standing relationships with organizations and people who are creating positive change.</p>
 		<p><strong>Contact</strong>: Basic contact information and a contact form.</p>
-		<p>Insert Sit Map Image</p>
+		<p><img src="../images/milestone2_sitemap.svg" alt="Sitemap for LOrchard.org" /></p>
 
 		<h2>Proposed Features and Functionality</h2>
 
