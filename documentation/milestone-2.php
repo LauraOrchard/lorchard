@@ -119,7 +119,9 @@
 			<li>She sends an email, rather than using the contact form, saying she’ll be in New Mexico the following month and would like to set up some time to show me some junior-level work she needs done.</li>
 			<li>From this point, the interaction is via email.</li>
 		</ol>
-		<p><img src="../images/milestone2_flowchart_1.svg" alt="Flowchart for Contract Client" /></p>
+		<p>
+			<img src="../images/milestone2_flowchart_1.svg" alt="Flowchart for Contract Client" />
+		</p>
 
 		<p><strong>#2 Prospective Employer:</strong></p>
 
@@ -135,7 +137,9 @@
 			<li>Fred has his recruiter contact me by phone for an interview.</li>
 			<li>All interaction from this point is by phone and email.</li>
 		</ol>
-		<p><img src="../images/milestone2_flowchart_2.svg" alt="Flowchart for Prospective Employer" /></p>
+		<p>
+			<img src="../images/milestone2_flowchart_2.svg" alt="Flowchart for Prospective Employer" />
+		</p>
 
 
 		<p><strong>#3 Private Client:</strong></p>
@@ -149,7 +153,9 @@
 			<li>They click on the Contact page, and rather than call me at that point, they decide fill out the contact form asking me to a meeting with the board.</li>
 			<li>At this point it becomes an email conversation.</li>
 		</ol>
-		<p><img src="../images/milestone2_flowchart_3.svg" alt="Flowchart for Private Client" /></p>
+		<p>
+			<img src="../images/milestone2_flowchart_3.svg" alt="Flowchart for Private Client" />
+		</p>
 
 		<h2>Proposed Site Map</h2>
 		<p>The minimum viable product for my site will consist of 5 top-level pages, with the potential for sub-pages under the
@@ -160,7 +166,7 @@
 		<p><strong>About</strong>: A brief outline of myself and my focus on creating positive change through human-centered and holistic design. This page will include references to my background in fine art.</p>
 		<p><strong>Services</strong>: A description of the specific services I provide, my skills, and experience with various technology platforms, web development, programming and project management. This section will be edited as my work experience builds. This page will also include a description of my philosophical approach to building long-standing relationships with organizations and people who are creating positive change.</p>
 		<p><strong>Contact</strong>: Basic contact information and a contact form.</p>
-		<p><img src="../images/milestone2_sitemap.svg" alt="Sitemap for LOrchard.org" /></p>
+
 
 		<h2>Proposed Features and Functionality</h2>
 
@@ -175,5 +181,8 @@
 			<li>The contact form will be included as required, but this will be removed later.</li>
 			<li>The content of each page will provide an opportunity to clarify my values and expectations for myself, my collaborators, and my clients.</li>
 		</ul>
+		<p>
+			<img src="../images/milestone2_sitemap.svg" alt="Sitemap for LOrchard.org" />
+		</p>
 	</body>
 </html>
