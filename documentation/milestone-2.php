@@ -1,4 +1,5 @@
-<!-- This document is describing the scope of my Personal Website Project. In lines 31/32, the h2/p tags were being controlled by PHPStorm, so I wasn't able to modify their alignment  -->
+<!-- This document is describing the scope of my Personal Website Project. In lines 31/32, the h2/p tags were being controlled by PHPStorm, so I wasn't able to modify their alignment.
+  The stylesheet should be displaying a green background and blue headers.-->
 
 <!DOCTYPE html>
 <html>
