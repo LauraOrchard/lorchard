@@ -1,6 +1,24 @@
-h1, h2, h3, body {
-	font-family: Roboto, sans-serif;
+h1 {
+	font-family: "Helvetica Neue", sans-serif;
+	color: (21, 21, 21);
+	text-shadow: 2px 2px 2px #636EFF;
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: 7px;
+}
+
+body {
+	background-color: rgba(137, 166, 87, .4);
+}
+
+h1 {
+	color: #006699;
+	text-align: center;
+}
+
+h2 {
+	color: #006699
+}
+p {
+	font-family: "Roboto", sans-serif;
 }
