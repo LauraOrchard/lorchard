@@ -12,15 +12,13 @@ h2 {
 	color: #006699
 }
 
-a {
+img {
 	alignment: center;
 }
 
 body {
 	background-color: rgba(137, 166, 87, .4);
+	font-family: "Helvetica Neue", sans-serif;
 }
 
 
-p {
-	font-family: "Roboto", sans-serif;
-}

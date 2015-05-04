@@ -35,13 +35,13 @@
 			<strong>Persona #1: Contract Client</strong>
 		</p>
 		<ul>
-			<li><strong>Name: </strong>Julie Criss Gibson, founder of SJConsulting</li>
+			<li><strong>Name: </strong>Jules, founder of Jules DeVerne Consulting</li>
 			<li><strong>Age: </strong>42</li>
-			<li><strong>Technology: </strong>SJ Consulting works in a multitude of content management systems, including
+			<li><strong>Technology: </strong>DeVerne Consulting works in a multitude of content management systems, including
 				NetCommunity (Pro, Grow and Spark), Sphere/FAF, Luminate/TeamRaiser, Drupal, WordPress, Sitefinity, Ektron,
 				and/or custom platforms. SJC has a team of designers, programmers, and consultants with expertise of online
 				and offline databases, email marketing, and software platforms to meet the full spectrum of clients' needs.</li>
-			<li><strong>Attitudes and Behaviors: </strong>Dedicated to working for nonprofits with complex needs, Julie is
+			<li><strong>Attitudes and Behaviors: </strong>Dedicated to working for nonprofits with complex needs, Jules is
 				also very keen to create a strong female coding team. Her approach with clients always includes a strategic
 				view of the clients’ project that extends to training in email marketing as well as online tools that make
 				fundraising and event management seamless to the public. Her approach with her coding team includes mentoring
@@ -49,10 +49,10 @@
 				a balanced life outside her company.</li>
 			<li><strong>Frustrations and Needs: </strong>The high volume of requests from the nonprofit sector seeking
 				professional solutions to complex technology problems means the need for competent programmers is constant.
-				Determining the right technology solutions for each client is taking over Julie’s schedule and she needs to
+				Determining the right technology solutions for each client is taking over Jules’s schedule and she needs to
 				feel comfortable completely relying on her staff to execute high quality products and take over the group
 				training sessions.</li>
-			<li><strong>Goals: </strong>Julie is in need of skilled coding talent from across the country with cross-over
+			<li><strong>Goals: </strong>Jules is in need of skilled coding talent from across the country with cross-over
 				skills in both project management and technical training for hourly or project-based employment.</li>
 		</ul>
 
@@ -60,14 +60,14 @@
 			<strong>Persona #2: Prospective Employer</strong>
 		</p>
 		<ul>
-			<li><strong>Name: </strong>Fred Armisted, Chief Strategy Officer, Fusion Labs</li>
+			<li><strong>Name: </strong>Armand, Chief Strategy Officer, Dallas Tech</li>
 			<li><strong>Age: </strong>65</li>
-			<li><strong>Technology: </strong>Fusion creates enterprise level scholarship and grants management software for
+			<li><strong>Technology: </strong>Dallas Tech creates enterprise level scholarship and grants management software for
 				universities and nonprofits with sophisticated online interfaces; his company provides technical consulting;
 				system management and hosting; proprietary nonprofit software; and advanced technology implementation.</li>
-			<li><strong>Attitudes and Behaviors: </strong>Fusion Labs has been growing steadily for 5 years and is always
+			<li><strong>Attitudes and Behaviors: </strong>Dallas Tech has been growing steadily for 5 years and is always
 				looking for more coding talent and project managers to keep their project pipeline flowing. Understaffed,
-				Fusion too often sends staff with the wrong skill set to the clients for training and/or installations, which has made
+				Dallas Tech too often sends staff with the wrong skill set to the clients for training and/or installations, which has made
 				the roll-outs less than successful for understaffed clients. The time it takes to get a charitable
 				organization up and running has been getting longer as the programming staff has taken on more peripheral tasks.</li>
 			<li><strong>Frustrations and Needs: </strong>The success of Fusion’s products have taken a bite out of their
@@ -85,7 +85,7 @@
 			<strong>Persona #3: Private Client (potential pro-bono project)</strong>
 		</p>
 		<ul>
-			<li><strong>Name: </strong>Santa Fe Meditation Circle</li>
+			<li><strong>Name: </strong>Meditation Circle</li>
 			<li><strong>Composition: </strong>an informal group (a circle) with a membership of 50-plus and a 3-person board of
 			directors. The circle is comprised of members from a highly respected worldwide organization, but the circle is not
 			officially affiliated with parent group for legal and tax reasons. Median age of the members is 60.</li>
@@ -125,11 +125,11 @@
 			<strong>#1 Contract Client:</strong>
 		</p>
 		<p>
-			In LinkedIn, Julie Criss Gibson is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn notice in July suggesting she congratulate me on starting my new job as a web developer.
+			In LinkedIn, Jules is <em>connected</em> to everyone her company has ever worked for. Because she worked with me on a series of Santa Fe Community Foundation projects, she receives a LinkedIn notice in July suggesting she congratulate me on starting my new job as a web developer.
 		</p>
 
 		<ol>
-			<li>From her iPhone, Julie posts the congratulations note on my profile, then clicks on the link to my new website from my LinkedIn profile page.</li>
+			<li>From her iPhone, Jules posts the congratulations note on my profile, then clicks on the link to my new website from my LinkedIn profile page.</li>
 			<li>From my Home page she clicks on the Services page to see what my skills include.</li>
 			<li>She then navigates to the Work page to see my samples. After a few minutes of examining the quality of my work, she clicks on the About page and is pleasantly surprised to see I’ve chosen to focus on clientele similar to hers.</li>
 			<li>From the Contact Me page, she clicks on my contact information to update her address book automatically.</li>
@@ -145,18 +145,18 @@
 		</p>
 
 		<p>
-			Fusion Labs has a full-time recruiter scouring the Internet on her desktop for anyone with Blackbaud, Proffer, FinancialEdge,
+			Dallas Tech has a full-time recruiter scouring the Internet on her desktop for anyone with Blackbaud, Proffer, FinancialEdge,
 			Raiser’s Edge, GrantedGe, or NetCommunity experience. My new site just came up in the results for the first
-			time, so she includes my URL link in a list of potential candidates to Fred Armisted. He remembers my name from the
+			time, so she includes my URL link in a list of potential candidates to Armand. He remembers my name from the
 			beta site he managed during Fusion’s early years.
 		</p>
 		<ol>
-			<li>Fred clicks on the URL link and lands on the Home page.</li>
+			<li>Armand clicks on the URL link and lands on the Home page.</li>
 			<li> He quickly navigates to the Services page.</li>
 			<li>He skims the Services page to see what I’ve done since we last met. Although my experience as a coder is
 				thin, my familiarity with the functionality of six key products in his arsenal puts me into the
 				<em>project management</em> category for Fusion.</li>
-			<li>Fred has his recruiter contact me by phone for an interview.</li>
+			<li>Armand has his recruiter contact me by phone for an interview.</li>
 			<li>All interaction from this point is by phone and email.</li>
 		</ol>
 		<p>
@@ -168,7 +168,7 @@
 			<strong>#3 Private Client:</strong>
 		</p>
 		<p>
-			The Santa Fe Meditation Circle board knows me as a fine artist but was told about my new business and have my
+			The Meditation Circle board knows me as a fine artist but was told about my new business and have my
 			business card. The three board members are looking at my site together on a laptop at a coffee shop where they are having a brief meeting.
 		</p>
 
