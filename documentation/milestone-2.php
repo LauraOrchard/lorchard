@@ -4,7 +4,7 @@
 <html>
 	<head lang="en">
 		<meta charset="UTF-8">
-		<link href="../css/milestone2_stylesheet.css rel="stylesheet" type="text/css" />
+		<link href="../css/milestone2_stylesheet.css" rel="stylesheet" type="text/css" />
 		<title>Milestone-2 for LOrchard.org</title>
 	</head>
 	<body>
