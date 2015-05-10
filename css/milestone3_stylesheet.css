@@ -12,6 +12,15 @@ h1 {
 }
 
 /**
+* H2 will be Helvetica Neue blue with no shadow.
+**/
+
+h2 {
+	color: #006699
+font-family: "Helvetica Neue", sans-serif;
+}
+
+/**
 * Everything in the body will be Helvetica Neue
 **/
 
@@ -19,14 +28,7 @@ h1 {
 body {
 	font-family: "Helvetica Neue", sans-serif;
 }
-/**
-* H2 will be Helvetica Neue blue with no shadow.
-**/
 
-h2 {
-	color: #006699
-	font-family: "Helvetica Neue", sans-serif;
-}
 
 /**
 * grouped figure and figure caption will both be centered/aligned with each other.
