@@ -31,7 +31,7 @@ body {
 
 /**
 * add photos that will be displayed on page
-**/
+
 
 .photos img {
 	position: absolute;
@@ -58,7 +58,7 @@ body {
 
 /**
 * random rotation on page
-**/
+
 
 .photos img:nth-of-type(1) {
 	left: 50px;
@@ -98,7 +98,7 @@ body {
 
 /**
 * add a hover function
-**/
+
 
 .photos img:hover {
 	-webkit-transform: scale(1.5);
@@ -110,7 +110,7 @@ body {
 
 /**
 * additional rotation
-**/
+
 
 .photos img:hover {
 	-webkit-transform: rotate(380deg) scale(1.5);
@@ -122,7 +122,7 @@ body {
 
 /**
 * add tranisitons
-**/
+
 
 .photos img {
 	-webkit-transition: all 0.5s ease-out;
@@ -133,7 +133,7 @@ body {
 
 /**
 * add white padding around images
-**/
+
 
 .photos img {
 	-webkit-transition: all 0.5s ease-out;
@@ -143,3 +143,4 @@ body {
 	padding: 10px 10px 10px 10px;
 	background: white;
 }
+**/
