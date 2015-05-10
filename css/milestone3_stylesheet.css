@@ -28,3 +28,7 @@ h2 {
 body {
 	font-family: "Helvetica Neue", sans-serif;
 }
+
+.photos img {
+	position: absolute;
+}
