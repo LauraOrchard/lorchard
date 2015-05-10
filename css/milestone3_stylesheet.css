@@ -29,6 +29,11 @@ body {
 	font-family: "Helvetica Neue", sans-serif;
 }
 
+figure {
+	display: block;
+	text-align: center;
+}
+
 figcaption {
 	display: block;
 	text-align: center;
