@@ -29,6 +29,13 @@ body {
 	font-family: "Helvetica Neue", sans-serif;
 }
 
+figcaption {
+	display: block;
+	text-align: center;
+}
+
+
+
 /**
 * add photos that will be displayed on page
 
