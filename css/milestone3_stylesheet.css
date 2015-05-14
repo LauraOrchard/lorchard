@@ -2,7 +2,7 @@
 * H1 will be Helvetica Neue blue with a purple shadow.
 **/
 h1 {
-	color: #006699;
+	color: #467F9B;
 	font-family: "Helvetica Neue", sans-serif;
 	margin-left: 5px;
 	margin-right: 5px;
@@ -10,15 +10,14 @@ h1 {
 	text-align: center;
 	text-shadow: 2px 2px 2px #636EFF;
 }
-
-/**
-* H2 will be Helvetica Neue blue with no shadow.
-**/
-
 h2 {
-	color: #006699
+	color: #467F9B;
 	font-family: "Helvetica Neue", sans-serif;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 7px;
 }
+
 
 /**
 * Everything in the body will be Helvetica Neue
