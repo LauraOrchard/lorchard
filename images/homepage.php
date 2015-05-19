@@ -83,19 +83,19 @@
 					<div class="item active">
 						<img src="../images/concretebluecarousel.png" alt="Always greener...">
 						<div class="carousel-caption">
-							<h3>Aligned work is an aligned life.</h3>
+							<h3>An aligned life creates aligned work.</h3>
 						</div>
 					</div>
 					<div class="item">
 						<img src="../images/3purplecarousel.png" alt="Evolving with the currents of change.">
 						<div class="carousel-caption">
-							<h3>Evolving with the currents of change.</h3>
+							<h3>Evolving with the currents of change, and taking my integrity with me.</h3>
 						</div>
 					</div>
 					<div class="item">
 						<img src="../images/concretedkbluecarousel.png" alt="Blah blah blah blah.">
 						<div class="carousel-caption">
-							<h3>Coding for good.</h3>
+							<h3>Using development tools for social change.</h3>
 						</div>
 					</div>
 				</div>
