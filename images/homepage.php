@@ -33,13 +33,10 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 		<title>Bootstrap 101 Template (DDC Version!)</title>
 	</head>
+	<!--The actual page-->
 	<body>
 		<div class="container">
 			<div class="row">
-				<!--This is a responsive png logo made in Photoshop-->
-				<div class="col-lg-12">
-					<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard" class="img-responsive">
-				</div>
 				<!--The following justified buttons will either be anchors on this page or to secondary pages-->
 				<div class="col-lg-12">
 					<div class="btn-group btn-group-justified" role="group" aria-label="...">
@@ -61,7 +58,14 @@
 					</div>
 				</div>
 			</div>
-			<!--Bootstrap Carousel-->
+
+		<div class="row">
+			<!--This is a responsive png logo made in Photoshop-->
+			<div class="col-lg-12">
+				<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard" class="img-responsive">
+			</div>
+		</div>
+		<!--Bootstrap Carousel-->
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 				<!-- Indicators -->
 				<ol class="carousel-indicators">
