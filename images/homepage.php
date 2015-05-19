@@ -73,21 +73,21 @@
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="http://placehold.it/1200x315" alt="...">
+						<img src="../images/2greenbackground.jpg" alt="Always greener...">
 						<div class="carousel-caption">
-							<h3>Caption Text</h3>
+							<h3>Aligned work is an aligned life.</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="http://placehold.it/1200x315" alt="...">
+						<img src="../images/1bwbackground.jpg" alt="Evolving with the currents of change.">
 						<div class="carousel-caption">
-							<h3>Caption Text</h3>
+							<h3>Evolving with the currents of change.</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="http://placehold.it/1200x315" alt="...">
+						<img src="../images/3purplebackground.jpg" alt="Blah blah blah blah.">
 						<div class="carousel-caption">
-							<h3>Caption Text</h3>
+							<h3>Coding for good.</h3>
 						</div>
 					</div>
 				</div>
