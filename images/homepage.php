@@ -65,7 +65,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../images/3purplecarousel.png" alt="Evolving with the currents of change.">
+						<img src="../images/biketrackcarousel.png" alt="Evolving with the currents of change.">
 						<div class="carousel-caption">
 							<h3>Evolving with the currents of change, and taking my integrity with me.</h3>
 						</div>
