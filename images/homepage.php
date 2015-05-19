@@ -61,12 +61,12 @@
 
 		<div class="row">
 			<!--This is a responsive png logo made in Photoshop-->
-			<div class="col-lg-4">
+			<div class="col-lg-4 col-md-4">
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-4 col-md-4">
 				<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard" class="img-responsive">
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-4 col-md-4">
 			</div>
 		</div>
 		<!--Bootstrap Carousel-->
