@@ -36,10 +36,71 @@
 	<body>
 		<div class="container">
 			<div class="row">
+				<!--This is a responsive png logo made in Photoshop-->
 				<div class="col-lg-12">
 					<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard" class="img-responsive">
 				</div>
+				<!--The following justified buttons will either be anchors on this page or to secondary pages-->
+				<div class="col-lg-12">
+					<div class="btn-group btn-group-justified" role="group" aria-label="...">
+						<div class="btn-group" role="group">
+							<button type="button" class="btn btn-default">Home</button>
+						</div>
+						<div class="btn-group" role="group">
+							<button type="button" class="btn btn-default">About</button>
+						</div>
+						<div class="btn-group" role="group">
+							<button type="button" class="btn btn-default">Services</button>
+						</div>
+						<div class="btn-group" role="group">
+							<button type="button" class="btn btn-default">Work</button>
+						</div>
+						<div class="btn-group" role="group">
+							<button type="button" class="btn btn-default">Contact</button>
+						</div>
+					</div>
+				</div>
 			</div>
+			<!--Bootstrap Carousel-->
+			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+				<!-- Indicators -->
+				<ol class="carousel-indicators">
+					<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				</ol>
+
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner">
+					<div class="item active">
+						<img src="http://placehold.it/1200x315" alt="...">
+						<div class="carousel-caption">
+							<h3>Caption Text</h3>
+						</div>
+					</div>
+					<div class="item">
+						<img src="http://placehold.it/1200x315" alt="...">
+						<div class="carousel-caption">
+							<h3>Caption Text</h3>
+						</div>
+					</div>
+					<div class="item">
+						<img src="http://placehold.it/1200x315" alt="...">
+						<div class="carousel-caption">
+							<h3>Caption Text</h3>
+						</div>
+					</div>
+				</div>
+
+				<!-- Controls -->
+				<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+					<span class="glyphicon glyphicon-chevron-left"></span>
+				</a>
+				<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+					<span class="glyphicon glyphicon-chevron-right"></span>
+				</a>
+			</div>
+			<!-- Carousel -->
 			<h1>Hello, world! I'm a Bootstrap page! :D</h1>
 		</div>
 	</body>
