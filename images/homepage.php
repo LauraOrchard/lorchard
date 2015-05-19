@@ -37,7 +37,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard">
+					<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard" class="img-responsive">
 				</div>
 			</div>
 			<h1>Hello, world! I'm a Bootstrap page! :D</h1>
