@@ -35,6 +35,11 @@
 	</head>
 	<body>
 		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<img src="lauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard">
+				</div>
+			</div>
 			<h1>Hello, world! I'm a Bootstrap page! :D</h1>
 		</div>
 	</body>
