@@ -67,7 +67,7 @@
 					<div class="item">
 						<img src="../images/biketrackcarousel.png" alt="Evolving with the currents of change.">
 						<div class="carousel-caption">
-							<h3>Evolving with the currents of change, and taking my integrity with me.</h3>
+							<h3>Evolving with integrity along the currents of change..</h3>
 						</div>
 					</div>
 					<div class="item">
