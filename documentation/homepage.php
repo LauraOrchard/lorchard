@@ -38,7 +38,7 @@
 		<div class="container">
 
 		<div class="row">
-			<!--This is a responsive png logo made in Photoshop-->
+			<!--This is a responsive png logo made in Photoshop - just changed to offset-->
 
 			<div class="col-xs-4 col-xs-offset-4">
 				<img src="../images/LauraOrchardCommandLogo.png" alt="Laura Orchard" title="Laura Orchard" class="img-responsive">
