@@ -10,15 +10,12 @@
 
 		<!-- Optional Bootstrap theme -->
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css" rel="stylesheet"/>
-		<!-- Custom styles for this template -->
-		<!-- Custom styles for this template -->
-		<link href="carousel.css" rel="stylesheet">
-		<link href="sticky-footer.css" rel="stylesheet">
 
 		<!-- ////////////////////////////////////////////////
-		 //// LINK TO YOUR CUSTOM CSS FILES HERE
-		 //// <link type="text/css" href="css/style.css" rel="stylesheet"/>
-		 ///////////////////////////////////////////////////// -->
+		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
+		<link type="text/css" href="../css/carousel.css" rel="stylesheet"/>
+		<link type="text/css" href="../css/sticky-footer.css" rel="stylesheet"/>
+
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,7 +32,7 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-		<title>LOrchard.org Homepage</title>
+		<title>LOrchard.org</title>
 	</head>
 	<!--The actual page-->
 	<body>
