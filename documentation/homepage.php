@@ -13,6 +13,7 @@
 
 		<!-- ////////////////////////////////////////////////
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
+		<link type="text/css" href="../css/custom.css" rel="stylesheet"/>
 		<link type="text/css" href="../css/carousel.css" rel="stylesheet"/>
 		<link type="text/css" href="../css/sticky-footer.css" rel="stylesheet"/>
 
@@ -38,13 +39,15 @@
 	<body>
 		<!-- NAVBAR
 		================================================== -->
-		<body>
-			<div class="navbar-wrapper">
-				<div class="container">
-					<div class="navbar transparent navbar-inverse navbar-fixed-top">
-						<nav class="navbar-inner">
-					<!--original inverse <nav class="navbar navbar-inverse navbar-static-top"> -->
-						<!--<div class="container">-->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+			<!--<div class="navbar-wrapper">
+				<div class="container">-->
+					<!--to make the vabar transparent and always visible-->
+					<!--<div class="navbar transparent navbar-inverse navbar-fixed-top">
+						<nav class="navbar-inner">-->
+					<nav class="navbar navbar-inverse navbar-static-top">
+						<div class="container">
 							<div class="navbar-header">
 								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 									<span class="sr-only">Toggle navigation</span>
@@ -81,6 +84,7 @@
 
 				</div>
 			</div>
+		</nav>
 
 
 			<!-- Carousel
@@ -97,8 +101,8 @@
 						<img class="first-slide" src="../images/STEMgrate.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Inspired...</h1>
-								<p>to develop for good.</p>
+								<h1>Inspired...to develop for good.</h1>
+								<!--<p>to develop for good.</p>-->
 								<!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p> -->
 							</div>
 						</div>
@@ -117,8 +121,8 @@
 						<img class="third-slide" src="../images/PlanterConcrete.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Dedicated to quality.</h1>
-								<p>And problem-solving with care.</p>
+								<h1>Dedicated to problem-solving with care.</h1>
+								<!--<p>And problem-solving with care.</p>-->
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
 							</div>
 						</div>
@@ -219,7 +223,7 @@
 
 
 
-				<footer class="footer">
+				<footer class="footer footer-fixed-bottom">
 					<div class="container">
 						<p class="text-muted">Place sticky footer content here.</p>
 					</div>
