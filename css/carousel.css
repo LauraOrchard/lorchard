@@ -33,6 +33,12 @@ body {
 	width: auto;
 }
 
+/** Let's try to make the navbar transparent
+*
+**/
+.navbar.transparent.navbar-inverse .navbar-inner {
+	background: rgba(0,0,0,0.4);
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
