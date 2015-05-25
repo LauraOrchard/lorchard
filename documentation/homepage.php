@@ -97,8 +97,8 @@
 						<img class="first-slide" src="../images/STEMgrate.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Teamwork is an opportunity...</h1>
-								<p>For everyone to shine.</p>
+								<h1>Inspired...</h1>
+								<p>to develop for good.</p>
 								<!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p> -->
 							</div>
 						</div>
@@ -107,7 +107,7 @@
 						<img class="second-slide" src="../images/NMStatePrintingConcrete.jpg" alt="Second slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Doing good in the world requires great code.</h1>
+								<h1>Supporting social good requires great code.</h1>
 								<p>And I love working on projects that benefit people in thoughtful ways.</p>
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
 							</div>
@@ -117,10 +117,18 @@
 						<img class="third-slide" src="../images/PlanterConcrete.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<!--<h1>Teamwork is an opportunity...</h1>-->
-								<p>
-									<img class="logo" src="../images/LauraOrchardCommandLogo.png" alt="Logo">
-								</p>
+								<h1>Dedicated to quality.</h1>
+								<p>And problem-solving with care.</p>
+								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<img class="fourth-slide" src="../images/PostOfficeConcrete.jpg" alt="Fourth slide">
+						<div class="container">
+							<div class="carousel-caption">
+								<h1>Teamwork is an opportunity...</h1>
+								<p>for everyone to shine.</p>
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
 							</div>
 						</div>
