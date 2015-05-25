@@ -93,9 +93,9 @@
 						<img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Example headline.</h1>
-								<p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-								<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+								<h1>Introducing...</h1>
+								<p>Laura Orchard, a design-centric web developer and IT project manager.</p>
+								<!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p> -->
 							</div>
 						</div>
 					</div>
@@ -103,9 +103,9 @@
 						<img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Another example headline.</h1>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-								<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+								<h1>Doing good in the world requires good programming.</h1>
+								<p>And I love working on projects that benefit people in thoughtful ways.</p>
+								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
 							</div>
 						</div>
 					</div>
@@ -113,9 +113,10 @@
 						<img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>One more for good measure.</h1>
-								<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-								<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+								<h1>Teamwork requires the space to be your best.</h1>
+								<p>The best projects allow the coders to focus on code, the architects to focus on planning, and
+									the designers to create something the client is excited about.</p>
+								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
 							</div>
 						</div>
 					</div>
