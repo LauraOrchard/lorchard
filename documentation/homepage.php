@@ -44,7 +44,7 @@
 					<div class="navbar transparent navbar-inverse navbar-fixed-top">
 						<nav class="navbar-inner">
 					<!--original inverse <nav class="navbar navbar-inverse navbar-static-top"> -->
-						<div class="container">
+						<!--<div class="container">-->
 							<div class="navbar-header">
 								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 									<span class="sr-only">Toggle navigation</span>
@@ -97,8 +97,8 @@
 						<img class="first-slide" src="../images/STEMgrate.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Introducing...</h1>
-								<p>Laura Orchard</p>
+								<h1>Teamwork is an opportunity...</h1>
+								<p>For everyone to shine.</p>
 								<!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p> -->
 							</div>
 						</div>
@@ -107,7 +107,7 @@
 						<img class="second-slide" src="../images/NMStatePrintingConcrete.jpg" alt="Second slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Doing good in the world requires good programming.</h1>
+								<h1>Doing good in the world requires great code.</h1>
 								<p>And I love working on projects that benefit people in thoughtful ways.</p>
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
 							</div>
@@ -117,9 +117,10 @@
 						<img class="third-slide" src="../images/PlanterConcrete.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Teamwork is an opportunity.</h1>
-								<p>The best projects allow the coders to focus on code, the architects to focus on planning, and
-									the designers to create something the client is excited about.</p>
+								<!--<h1>Teamwork is an opportunity...</h1>-->
+								<p>
+									<img class="logo" src="../images/LauraOrchardCommandLogo.png" alt="Logo">
+								</p>
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
 							</div>
 						</div>
