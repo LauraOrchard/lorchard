@@ -46,7 +46,7 @@
 					<!--to make the vabar transparent and always visible-->
 					<!--<div class="navbar transparent navbar-inverse navbar-fixed-top">
 						<nav class="navbar-inner">-->
-					<nav class="navbar navbar-inverse navbar-static-top">
+					<nav class="navbar navbar-fixed-top">
 						<div class="container">
 							<div class="navbar-header">
 								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -56,7 +56,7 @@
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 								</button>
-								<a class="navbar-brand" href="#">Laura O</a>
+								<a class="navbar-brand" href="#">LAURA ORCHARD</a>
 							</div>
 							<div id="navbar" class="navbar-collapse collapse">
 								<ul class="nav navbar-nav">
@@ -95,10 +95,11 @@
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 					<li data-target="#myCarousel" data-slide-to="1"></li>
 					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide" src="../images/STEMgrate.jpg" alt="First slide">
+						<img class="first-slide" src="../images/STEMgrate.jpg" alt="First slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Inspired...to develop for good.</h1>
@@ -108,7 +109,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img class="second-slide" src="../images/NMStatePrintingConcrete.jpg" alt="Second slide">
+						<img class="second-slide" src="../images/NMStatePrintingConcrete.jpg" alt="Second slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Supporting social good requires great code.</h1>
@@ -118,7 +119,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img class="third-slide" src="../images/PlanterConcrete.jpg" alt="Third slide">
+						<img class="third-slide" src="../images/PlanterConcrete.jpg" alt="Third slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Dedicated to problem-solving with care.</h1>
@@ -128,7 +129,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img class="fourth-slide" src="../images/PostOfficeConcrete.jpg" alt="Fourth slide">
+						<img class="fourth-slide" src="../images/PostOfficeConcrete.jpg" alt="Fourth slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Teamwork is an opportunity...</h1>
@@ -157,20 +158,20 @@
 
 				<!-- Three columns of text below the carousel -->
 				<div class="row">
-					<div class="col-lg-4">
-						<img class="img-square" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+					<div class="col-lg-4 col-md-4">
+						<!--<img class="img-square" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">-->
 						<h2>Project Management</h2>
 						<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
 						<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
 					</div><!-- /.col-lg-4 -->
-					<div class="col-lg-4">
-						<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+					<div class="col-lg-4 col-md-4">
+						<!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">-->
 						<h2>Design</h2>
 						<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
 						<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
 					</div><!-- /.col-lg-4 -->
-					<div class="col-lg-4">
-						<img class="img-square" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+					<div class="col-lg-4 col-md-4">
+						<!--<img class="img-square" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">-->
 						<h2>Teamwork</h2>
 						<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 						<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
@@ -178,9 +179,11 @@
 				</div><!-- /.row -->
 
 
+
+
 				<!-- START THE FEATURETTES -->
 
-				<hr class="featurette-divider">
+<!--				<hr class="featurette-divider">
 
 				<div class="row featurette">
 					<div class="col-md-7">
@@ -216,7 +219,7 @@
 					</div>
 				</div>
 
-				<hr class="featurette-divider">
+				<hr class="featurette-divider">-->
 
 				<!-- /END THE FEATURETTES -->
 
