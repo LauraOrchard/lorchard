@@ -1,3 +1,7 @@
 /**#myCarousel img {
 	max-width: 100%;
 }**/
+
+.Logo {
+	position: fixed;
+}

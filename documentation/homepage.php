@@ -87,7 +87,7 @@
 		</nav>
 	<div class="row">
 		<div class="col-xs-12">
-			<img id="myLogo" src="../images/LauraOrchardCommandLogosm.png"/>
+			<img class="Logo" src="../images/LauraOrchardCommandLogosm.png"/>
 		</div>
 
 	</div>
