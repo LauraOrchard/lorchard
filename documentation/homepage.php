@@ -62,8 +62,8 @@
 								<ul class="nav navbar-nav">
 									<li class="active"><a href="#">Home</a></li>
 									<li><a href="#about">About Me</a></li>
-									<li><a href="#about">Services Offered</a></li>
-									<li><a href="#about">My Work</a></li>
+									<li><a href="#services">Services Offered</a></li>
+									<li><a href="#work">My Work</a></li>
 									<li><a href="#contact">Contact Me</a></li>
 									<!--<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
@@ -87,7 +87,7 @@
 		</nav>
 	<div class="row">
 		<div class="col-xs-12">
-			<img class="Logo" src="../images/LauraOrchardCommandLogosm.png"/>
+			<IMG class="displayed" src="../images/LauraOrchardCommandLogosm.png" alt="Laura Orchard Logo" class="image-responsive">
 		</div>
 
 	</div>

@@ -2,6 +2,13 @@
 	max-width: 100%;
 }**/
 
-.Logo {
-	position: fixed;
+IMG.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 60px
+}
+
+nav {
+	padding-bottom: 60px;
 }
