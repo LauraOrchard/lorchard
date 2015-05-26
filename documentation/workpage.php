@@ -91,11 +91,44 @@
 		<div class="row">
 			<div class="col-sm-6 col-md-4">
 				<div class="thumbnail">
-					<img src="..." alt="...">
+					<img src="../images/SFCFThumbnail.jpg" alt="Santa Fe Community Foundation">
 					<div class="caption">
-						<h3>Thumbnail label</h3>
-						<p>...</p>
-						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+						<h3>Santa Fe Community Foundation</h3>
+						<p><strong>Project Management</strong> <br />
+							Collaborators: <br />
+							Blackbaud <br />
+							Cisneros Design <br />
+							Dunn & Associates <br />
+							Fusion Labs <br />
+							SJ Consulting <br />
+						</p>
+						<p>
+							<a href="#" class="btn btn-primary" role="button">Details</a>
+						</p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="../images/NMEDThumbnail.jpg" alt="New Mexico Environment Department">
+					<div class="caption">
+						<h3>New Mexico Environment Department</h3>
+						<p><strong>Project Management</strong><br />
+							Collaborators: <br />
+							American Management Systems <br />
+							Windsor Solutions <br />
+						</p>
+						<p>
+							<a href="#" class="btn btn-primary" role="button">Details</a>
+						</p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="../images/JyothiThumbnail.jpg" alt="Orchard Studio">
+					<div class="caption">
+						<h3>Orchard Studio</h3>
+						<p><strong>Website Development</strong></p>
+						<p>
+							<a href="#" class="btn btn-primary" role="button">Details</a>
+						</p>
 					</div>
 				</div>
 			</div>
