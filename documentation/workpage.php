@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	<!--this is my Work page-->
+	<!--this is my Work page (portfolio)-->
 	<head>
 		<meta charset="utf-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
