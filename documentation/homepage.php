@@ -61,10 +61,10 @@
 							<div id="navbar" class="navbar-collapse collapse">
 								<ul class="nav navbar-nav">
 									<li class="active"><a href="#">Home</a></li>
-									<li><a href="#about">About</a></li>
-									<li><a href="#about">Services</a></li>
-									<li><a href="#about">Portfolio</a></li>
-									<li><a href="#contact">Contact</a></li>
+									<li><a href="#about">About Me</a></li>
+									<li><a href="#about">Services Offered</a></li>
+									<li><a href="#about">My Work</a></li>
+									<li><a href="#contact">Contact Me</a></li>
 									<!--<li class="dropdown">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
 										<ul class="dropdown-menu" role="menu">
@@ -85,7 +85,12 @@
 				</div>
 			</div>
 		</nav>
+	<div class="row">
+		<div class="col-xs-12">
+			<img id="myLogo" src="../images/LauraOrchardCommandLogosm.png"/>
+		</div>
 
+	</div>
 
 			<!-- Carousel
 			 ================================================== -->
