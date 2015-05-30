@@ -13,7 +13,7 @@
 
 		<!-- ////////////////////////////////////////////////
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
-		<link type="text/css" href="../css/covercustom.css" rel="stylesheet"/>
+		<!--//<link type="text/css" href="../css/covercustom.css" rel="stylesheet"/>-->
 
 
 
@@ -38,7 +38,8 @@
 
 <body>
 
-	<div class="site-wrapper"
+
+	<div class="site-wrapper">
 
 		<div class="site-wrapper-inner">
 
@@ -59,7 +60,7 @@
 
 				<div class="inner cover">
 					<h1 class="cover-heading">IT'S A BRAND NEW DAY...</h1>
-					<p class="lead">Tell them who you are with a brand new site!</p>
+					<p class="lead">Tell them all about it with a brand new site!</p>
 					<p class="lead">
 						<a href="#" class="btn btn-lg btn-default">Learn more</a>
 					</p>

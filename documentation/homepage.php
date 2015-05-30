@@ -104,42 +104,22 @@
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide" src="../images/STEMgrate.jpg" alt="First slide" class="image-responsive">
+						<img class="first-slide" src="../images/CloudCoversm.jpg" alt="First slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Inspired...to develop for good.</h1>
+								<h1>It's a brand new day...</h1>
 								<!--<p>to develop for good.</p>-->
 								<!-- <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p> -->
 							</div>
 						</div>
 					</div>
 					<div class="item">
-						<img class="second-slide" src="../images/NMStatePrintingConcrete.jpg" alt="Second slide" class="image-responsive">
+						<img class="second-slide" src="../images/SliderCloudsm.jpg" alt="Second slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Supporting social good requires great code.</h1>
-								<p>And I love working on projects that benefit people in thoughtful ways.</p>
+								<h1>Let them know who you are with a brand new site!</h1>
+								<!--<p>And I love working on projects that benefit people in thoughtful ways.</p>-->
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<img class="third-slide" src="../images/PlanterConcrete.jpg" alt="Third slide" class="image-responsive">
-						<div class="container">
-							<div class="carousel-caption">
-								<h1>Dedicated to problem-solving with care.</h1>
-								<!--<p>And problem-solving with care.</p>-->
-								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<img class="fourth-slide" src="../images/PostOfficeConcrete.jpg" alt="Fourth slide" class="image-responsive">
-						<div class="container">
-							<div class="carousel-caption">
-								<h1>Teamwork is an opportunity...</h1>
-								<p>for everyone to shine.</p>
-								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
 							</div>
 						</div>
 					</div>
