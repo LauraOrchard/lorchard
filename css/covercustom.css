@@ -13,7 +13,7 @@ a:hover {
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-	color: #333;
+	color: #284271;
 	text-shadow: none; /* Prevent inheritence from `body` */
 	background-color: #fff;
 	border: 1px solid #fff;
@@ -35,6 +35,21 @@ body {
 	text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
+/* font modifications **/
+.h1, h1 {
+  font-size: 48px;
+}
+.h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.h1, h1 {
+	font-family: inherit;
+	font-weight: 300;
+	line-height: 1.5;
+	color: inherit;
+}
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
 	display: table;
@@ -47,6 +62,11 @@ body {
 .site-wrapper-inner {
 	display: table-cell;
 	vertical-align: top;
+	background: url(../images/CloudCover.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 .cover-container {
 	margin-right: auto;
@@ -63,6 +83,7 @@ body {
  * Header
  */
 .masthead-brand {
+	font-size: 20px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
@@ -114,16 +135,42 @@ body {
 }
 .cover .btn-lg {
 	padding: 10px 20px;
-	font-weight: bold;
+
+}
+
+/*
+ * Flexbox
+ *
+.container {
+	position: fixed;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: row; */
 }
 
 
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+	margin-bottom: 20px;
+	text-align: center;
+}
+.marketing h2 {
+	font-weight: normal;
+}
+.marketing .col-lg-4 p {
+	margin-right: 10px;
+	margin-left: 10px;
+}
 /*
  * Footer
  */
 
 .mastfoot {
-	color: #999; /* IE8 proofing */
+	color: #284271; /* IE8 proofing */
 	color: rgba(255,255,255,.5);
 }
 

@@ -13,7 +13,7 @@
 
 		<!-- ////////////////////////////////////////////////
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
-		<link type="text/css" href="../css/custom.css" rel="stylesheet"/>
+
 		<link type="text/css" href="../css/carousel.css" rel="stylesheet"/>
 		<link type="text/css" href="../css/sticky-footer.css" rel="stylesheet"/>
 
@@ -117,7 +117,7 @@
 						<img class="second-slide" src="../images/SliderCloudsm.jpg" alt="Second slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
-								<h1>Let them know who you are with a brand new site!</h1>
+								<h1>Tell everyone who you are with a brand new site!</h1>
 								<!--<p>And I love working on projects that benefit people in thoughtful ways.</p>-->
 								<!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
 							</div>

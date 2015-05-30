@@ -13,7 +13,7 @@
 
 		<!-- ////////////////////////////////////////////////
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
-		<!--//<link type="text/css" href="../css/covercustom.css" rel="stylesheet"/>-->
+		<link type="text/css" href="../css/covercustom.css" rel="stylesheet"/>
 
 
 
@@ -47,7 +47,7 @@
 
 				<div class="masthead clearfix">
 					<div class="inner">
-						<h3 class="masthead-brand">Cover</h3>
+						<h3 class="masthead-brand">Laura Orchard</h3>
 						<nav>
 							<ul class="nav masthead-nav">
 								<li class="active"><a href="#">Home</a></li>
@@ -60,17 +60,54 @@
 
 				<div class="inner cover">
 					<h1 class="cover-heading">IT'S A BRAND NEW DAY...</h1>
-					<p class="lead">Tell them all about it with a brand new site!</p>
-					<p class="lead">
-						<a href="#" class="btn btn-lg btn-default">Learn more</a>
-					</p>
+					<p class="lead">Tell them all about YOU with a brand new site!</p>
+					<div class="container marketing">
+
+						<!-- Three columns of text below -->
+						<div class="row">
+							<div class="col-lg-4 col-md-4">
+
+								<h2>Web Development</h2>
+								<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+								<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+							</div><!-- /.col-lg-4 -->
+							<div class="col-lg-4 col-md-4">
+
+								<h2>Project Management</h2>
+								<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+								<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+							</div><!-- /.col-lg-4 -->
+
+							<div class="col-lg-4 col-md-4">
+
+								<h2>Consulting</h2>
+								<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+								<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+							</div><!-- /.col-lg-4 -->
+						</div><!-- /.row -->
+
+
+
+<!--					<div class="container">
+						<div class="flex-container">
+							<div class="flex-item"><h2>Web Development</h2>
+								<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+							</div>
+							<div class="flex-item"><h2>Project Mangement</h2>
+								<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+							</div>
+							<div class="flex-item"><h2>Consulting</h2>
+								<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
+							</div>
+						</div>
+					</div>-->
 				</div>
 
-				<div class="mastfoot">
+<!--				<div class="mastfoot">
 					<div class="inner">
 						<p>Website by Laura O.</p>
 					</div>
-				</div>
+				</div>-->
 
 			</div>
 
