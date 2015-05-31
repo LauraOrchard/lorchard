@@ -50,8 +50,8 @@
 							<h3 class="masthead-brand">Laura Orchard</h3>
 							<nav>
 								<ul class="nav masthead-nav">
-									<li class="active"><a href="#">Home</a></li>
-									<li><a href="#">Services</a></li>
+									<li><a href="http://lorchard.org/documentation/newhome.php">Home</a></li>
+									<li class="active">Services</a></li>
 									<li><a href="#">Contact</a></li>
 								</ul>
 							</nav>
@@ -59,8 +59,8 @@
 					</div>
 
 					<div class="inner cover">
-						<h1 class="cover-heading">TO HELP YOU OUT...</h1>
-						<p class="lead">Here is what I offer:</p>
+						<h1 class="cover-heading">TO HELP YOU, here is what I offer:</h1>
+
 						<div class="container marketing">
 
 							<!-- Three columns of text below -->

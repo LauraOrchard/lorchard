@@ -68,6 +68,7 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
 .cover-container {
 	margin-right: auto;
 	margin-left: auto;
@@ -154,6 +155,9 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+.container-marketing {
+	position: absolute
+}
 .marketing .col-lg-4 {
 	margin-bottom: 20px;
 	text-align: center;

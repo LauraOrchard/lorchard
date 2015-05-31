@@ -51,7 +51,7 @@
 						<nav>
 							<ul class="nav masthead-nav">
 								<li class="active"><a href="#">Home</a></li>
-								<li><a href="#">Services</a></li>
+								<li><a href="http://lorchard.org/documentation/Services.php">Services</a></li>
 								<li><a href="#">Contact</a></li>
 							</ul>
 						</nav>
@@ -61,53 +61,14 @@
 				<div class="inner cover">
 					<h1 class="cover-heading">IT'S A BRAND NEW DAY...</h1>
 					<p class="lead">Tell them all about YOU with a brand new site!</p>
-					<div class="container marketing">
 
-						<!-- Three columns of text below -->
-						<div class="row">
-							<div class="col-lg-4 col-md-4">
-
-								<h2>Web Development</h2>
-								<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-								<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-							</div><!-- /.col-lg-4 -->
-							<div class="col-lg-4 col-md-4">
-
-								<h2>Project Management</h2>
-								<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-								<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-							</div><!-- /.col-lg-4 -->
-
-							<div class="col-lg-4 col-md-4">
-
-								<h2>Consulting</h2>
-								<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-								<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-							</div><!-- /.col-lg-4 -->
-						</div><!-- /.row -->
-
-
-
-<!--					<div class="container">
-						<div class="flex-container">
-							<div class="flex-item"><h2>Web Development</h2>
-								<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
-							</div>
-							<div class="flex-item"><h2>Project Mangement</h2>
-								<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
-							</div>
-							<div class="flex-item"><h2>Consulting</h2>
-								<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
-							</div>
-						</div>
-					</div>-->
 				</div>
 
-<!--				<div class="mastfoot">
+				<div class="mastfoot">
 					<div class="inner">
-						<p>Website by Laura O.</p>
+						<p>Website by Laura O</p>
 					</div>
-				</div>-->
+				</div>
 
 			</div>
 
