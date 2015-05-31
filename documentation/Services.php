@@ -14,6 +14,11 @@
 		<!-- ////////////////////////////////////////////////
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
 		<link type="text/css" href="../css/covercustom.css" rel="stylesheet"/>
+		<style>
+			.site-wrapper-inner {
+				background-color: rgba(40,66,113,0.7)!important;
+			}
+		</style>
 
 
 
@@ -32,6 +37,7 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
 		<title>LOrchard.org</title>
 	</head>
 	<!--The actual page-->
@@ -59,59 +65,78 @@
 					</div>
 
 					<div class="inner cover">
-						<h1 class="cover-heading">TO HELP YOU, here is what I offer:</h1>
-
-						<div class="container marketing">
-
-							<!-- Three columns of text below -->
-							<div class="row">
-								<div class="col-lg-4 col-md-4">
-
-									<h2>Web Development</h2>
-									<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-									<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-								</div><!-- /.col-lg-4 -->
-								<div class="col-lg-4 col-md-4">
-
-									<h2>Project Management</h2>
-									<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-									<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-								</div><!-- /.col-lg-4 -->
-
-								<div class="col-lg-4 col-md-4">
-
-									<h2>Consulting</h2>
-									<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-									<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-								</div><!-- /.col-lg-4 -->
-							</div><!-- /.row -->
-
-
-
-							<!--					<div class="container">
-													<div class="flex-container">
-														<div class="flex-item"><h2>Web Development</h2>
-															<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
-														</div>
-														<div class="flex-item"><h2>Project Mangement</h2>
-															<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
-														</div>
-														<div class="flex-item"><h2>Consulting</h2>
-															<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
-														</div>
-													</div>
-												</div>-->
+						<h1 class="cover-heading">To Help You Make It Happen...</h1>
+							<!--<p class="lead">here is what I offer:</p>-->
+						<div class="row">
+							<div class="col-lg-12">
+								<p></p>
+							</div>
 						</div>
+					</div>
 
-						<!--				<div class="mastfoot">
-											<div class="inner">
-												<p>Website by Laura O.</p>
-											</div>
-										</div>-->
+					<div class="container marketing">
+						<!-- Three columns of text below -->
+						<div class="row">
+							<div class="col-lg-4">
+								<h2>Web Development</h2>
+								<p><h4>From concept to rollout, I help artists who need to share their creativity with the world
+										and organizations that strive to benefit the world.</h4></p>
+								<p>
+									<button type="button" class="btn btn-primary btn-lg outline">More...</button>
+								</p>
+							</div><!-- /.col-lg-4 -->
+							<div class="col-lg-4">
 
+								<h2>Project Management</h2>
+								<p><h4>Even the smallest project needs a plan. Someone with experience managing all type of projects - from minimal add-ons to enterprise-level custom software - can help make the going a lot easier.<h4></p>
+									<p><button type="button" class="btn btn-primary btn-lg outline">More...</button></p>
+							</div><!-- /.col-lg-4 -->
+
+							<div class="col-lg-4">
+
+								<h2>Consulting</h2>
+								<p><h4>Sometimes all it takes is a nudge in the right direction to get back on track with your project.<h4></p>
+								<p><button type="button" class="btn btn-primary btn-lg outline">More...</button></p>
+							</div><!-- /.col-lg-4 -->
+						</div><!-- /.row -->
+					</div>
+
+					<div class="mastfoot">
+						<div class="inner">
+<!--							<div class="mastfoot-container">-->
+<!--								<div class="row">-->
+<!--									<div class="col-lg-4">-->
+<!--										<h4>Contact:</h4>-->
+<!--										Laura Orchard<br />-->
+<!--										(505) 501-1560<br />-->
+<!--										orchard.laura@gmail.com<br />-->
+<!--										/li/LauraOrchard<br />-->
+<!--										</p>-->
+<!--									</div>-->
+<!--									<div class="col-lg-4">-->
+<!--										<h4>Collaborators</h4>-->
+<!--										<ul>-->
+<!--											<p>SJ Consulting<br />-->
+<!--												Fusion Labs<br />-->
+<!--												Cisneros Design<br />-->
+<!--												Dunn & Associates<br />-->
+<!--											</p>-->
+<!--									</div>-->
+<!--									<div class="col-lg-4">-->
+<!--										<h4>Making Things Better</h4>-->
+<!--										<p>Impact Design Hub<br />-->
+<!--											Rinse<br />-->
+<!--											Ryder Studio<br />-->
+<!--											/li/LauraOrchard<br />-->
+<!--										</p>-->
+<!--									</div>-->
+<!--								</div>-->
+<!--							</div>-->
+							<p>Website by Laura O</p>
+						</div>
 					</div>
 
 				</div>
-
 			</div>
+		</div>
 	</body>

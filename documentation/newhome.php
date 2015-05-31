@@ -60,12 +60,43 @@
 
 				<div class="inner cover">
 					<h1 class="cover-heading">IT'S A BRAND NEW DAY...</h1>
-					<p class="lead">Tell them all about YOU with a brand new site!</p>
+					<p class="lead">Show off who you are with a brand new site!</p
+					<p><a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you</button></a></p>
 
 				</div>
 
+
 				<div class="mastfoot">
 					<div class="inner">
+<!--						<div class="mastfoot-container">-->
+<!--							<div class="row">-->
+<!--								<div class="col-lg-4">-->
+<!--									<h4>Contact:</h4>-->
+<!--									Laura Orchard<br />-->
+<!--										(505) 501-1560<br />-->
+<!--										orchard.laura@gmail.com<br />-->
+<!--										/li/LauraOrchard<br />-->
+<!--									</p>-->
+<!--								</div>-->
+<!--								<div class="col-lg-4">-->
+<!--									<h4>Collaborators</h4>-->
+<!--									<ul>-->
+<!--										<p>SJ Consulting<br />-->
+<!--											Fusion Labs<br />-->
+<!--											Cisneros Design<br />-->
+<!--											Dunn & Associates<br />-->
+<!--										</p>-->
+<!--								</div>-->
+<!--								<div class="col-lg-4">-->
+<!--									<h4>Making Things Better</h4>-->
+<!--										<p>Impact Design Hub<br />-->
+<!--											Rinse<br />-->
+<!--											Ryder Studio<br />-->
+<!--											/li/LauraOrchard<br />-->
+<!--										</p>-->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
 						<p>Website by Laura O</p>
 					</div>
 				</div>
