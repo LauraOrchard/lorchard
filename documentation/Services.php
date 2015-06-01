@@ -44,7 +44,6 @@
 
 	<body>
 
-
 		<div class="site-wrapper">
 
 			<div class="site-wrapper-inner">
@@ -58,6 +57,7 @@
 								<ul class="nav masthead-nav">
 									<li><a href="http://lorchard.org/documentation/newhome.php">Home</a></li>
 									<li class="active">Services</a></li>
+									<li><a href="#">About</a></li>
 									<li><a href="#">Contact</a></li>
 								</ul>
 							</nav>
@@ -65,7 +65,7 @@
 					</div>
 
 					<div class="inner cover">
-						<h1 class="cover-heading">To Help You Make It Happen...</h1>
+						<h1 class="cover-heading">...make it happen</h1>
 							<!--<p class="lead">here is what I offer:</p>-->
 						<div class="row">
 							<div class="col-lg-12">
@@ -77,25 +77,25 @@
 					<div class="container marketing">
 						<!-- Three columns of text below -->
 						<div class="row">
+
 							<div class="col-lg-4">
+
 								<h2>Web Development</h2>
-								<p><h4>From concept to rollout, I help artists who need to share their creativity with the world
-										and organizations that strive to benefit the world.</h4></p>
-								<p>
-									<button type="button" class="btn btn-primary btn-lg outline">More...</button>
-								</p>
+								<p>From concept to rollout, I help artists who need to share their creativity with the world
+										and organizations that strive to benefit the world.</p>
+								<p><button type="button" class="btn btn-primary btn-lg outline">More...</button></p>
 							</div><!-- /.col-lg-4 -->
 							<div class="col-lg-4">
 
 								<h2>Project Management</h2>
-								<p><h4>Even the smallest project needs a plan. Someone with experience managing all type of projects - from minimal add-ons to enterprise-level custom software - can help make the going a lot easier.<h4></p>
-									<p><button type="button" class="btn btn-primary btn-lg outline">More...</button></p>
+								<p>Even the smallest project needs a plan. From minimal add-ons to enterprise-level custom software, someone with experience managing all type of projects can help make the going a lot easier.</p>
+								<p><button type="button" class="btn btn-primary btn-lg outline">More...</button></p>
 							</div><!-- /.col-lg-4 -->
 
 							<div class="col-lg-4">
 
 								<h2>Consulting</h2>
-								<p><h4>Sometimes all it takes is a nudge in the right direction to get back on track with your project.<h4></p>
+								<p>Sometimes all it takes is a nudge in the right direction to get back on track with your project.</p>
 								<p><button type="button" class="btn btn-primary btn-lg outline">More...</button></p>
 							</div><!-- /.col-lg-4 -->
 						</div><!-- /.row -->
@@ -103,35 +103,7 @@
 
 					<div class="mastfoot">
 						<div class="inner">
-<!--							<div class="mastfoot-container">-->
-<!--								<div class="row">-->
-<!--									<div class="col-lg-4">-->
-<!--										<h4>Contact:</h4>-->
-<!--										Laura Orchard<br />-->
-<!--										(505) 501-1560<br />-->
-<!--										orchard.laura@gmail.com<br />-->
-<!--										/li/LauraOrchard<br />-->
-<!--										</p>-->
-<!--									</div>-->
-<!--									<div class="col-lg-4">-->
-<!--										<h4>Collaborators</h4>-->
-<!--										<ul>-->
-<!--											<p>SJ Consulting<br />-->
-<!--												Fusion Labs<br />-->
-<!--												Cisneros Design<br />-->
-<!--												Dunn & Associates<br />-->
-<!--											</p>-->
-<!--									</div>-->
-<!--									<div class="col-lg-4">-->
-<!--										<h4>Making Things Better</h4>-->
-<!--										<p>Impact Design Hub<br />-->
-<!--											Rinse<br />-->
-<!--											Ryder Studio<br />-->
-<!--											/li/LauraOrchard<br />-->
-<!--										</p>-->
-<!--									</div>-->
-<!--								</div>-->
-<!--							</div>-->
+<!---->
 							<p>Website by Laura O</p>
 						</div>
 					</div>
@@ -140,3 +112,4 @@
 			</div>
 		</div>
 	</body>
+</html>

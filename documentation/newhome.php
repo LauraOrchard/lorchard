@@ -15,8 +15,6 @@
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
 		<link type="text/css" href="../css/covercustom.css" rel="stylesheet"/>
 
-
-
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -32,12 +30,12 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
 		<title>LOrchard.org</title>
 	</head>
 	<!--The actual page-->
 
 <body>
-
 
 	<div class="site-wrapper">
 
@@ -52,6 +50,7 @@
 							<ul class="nav masthead-nav">
 								<li class="active"><a href="#">Home</a></li>
 								<li><a href="http://lorchard.org/documentation/Services.php">Services</a></li>
+								<li><a href="#">About</a></li>
 								<li><a href="#">Contact</a></li>
 							</ul>
 						</nav>
@@ -59,51 +58,18 @@
 				</div>
 
 				<div class="inner cover">
-					<h1 class="cover-heading">IT'S A BRAND NEW DAY...</h1>
+					<h1 class="cover-heading">IT'S A BRAND NEW DAY</h1>
 					<p class="lead">Show off who you are with a brand new site!</p
-					<p><a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you</button></a></p>
+					<p><a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you...</button></a></p>
 
 				</div>
-
 
 				<div class="mastfoot">
 					<div class="inner">
-<!--						<div class="mastfoot-container">-->
-<!--							<div class="row">-->
-<!--								<div class="col-lg-4">-->
-<!--									<h4>Contact:</h4>-->
-<!--									Laura Orchard<br />-->
-<!--										(505) 501-1560<br />-->
-<!--										orchard.laura@gmail.com<br />-->
-<!--										/li/LauraOrchard<br />-->
-<!--									</p>-->
-<!--								</div>-->
-<!--								<div class="col-lg-4">-->
-<!--									<h4>Collaborators</h4>-->
-<!--									<ul>-->
-<!--										<p>SJ Consulting<br />-->
-<!--											Fusion Labs<br />-->
-<!--											Cisneros Design<br />-->
-<!--											Dunn & Associates<br />-->
-<!--										</p>-->
-<!--								</div>-->
-<!--								<div class="col-lg-4">-->
-<!--									<h4>Making Things Better</h4>-->
-<!--										<p>Impact Design Hub<br />-->
-<!--											Rinse<br />-->
-<!--											Ryder Studio<br />-->
-<!--											/li/LauraOrchard<br />-->
-<!--										</p>-->
-<!--								</div>-->
-<!--							</div>-->
-<!--						</div>-->
 						<p>Website by Laura O</p>
 					</div>
 				</div>
-
 			</div>
-
 		</div>
-
 	</div>
 </body>

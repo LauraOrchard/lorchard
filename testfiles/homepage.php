@@ -14,8 +14,8 @@
 		<!-- ////////////////////////////////////////////////
 		 //// LINK TO YOUR CUSTOM CSS FILES HERE		 ///////////////////////////////////////////////////// -->
 
-		<link type="text/css" href="../css/carousel.css" rel="stylesheet"/>
-		<link type="text/css" href="../css/sticky-footer.css" rel="stylesheet"/>
+		<link type="text/css" href="carousel.css" rel="stylesheet"/>
+		<link type="text/css" href="sticky-footer.css" rel="stylesheet"/>
 
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -104,7 +104,7 @@
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide" src="../images/CloudCoversm.jpg" alt="First slide" class="image-responsive">
+						<img class="first-slide" src="../images/CloudCover.jpg" alt="First slide" class="image-responsive">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>It's a brand new day...</h1>

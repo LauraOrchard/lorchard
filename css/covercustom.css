@@ -70,6 +70,7 @@ body {
 	color: #fff;
 	text-align: center;
 	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+	font-size: 18px;
 }
 
 /* font modifications **/
@@ -85,6 +86,10 @@ body {
 	font-weight: 300;
 	line-height: 1.5;
 	color: inherit;
+}
+
+.p {
+	font-size: 18px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -217,7 +222,7 @@ body {
 .mastfoot {
 	color: #284271;
 	text-shadow: none;/* IE8 proofing */
-	text-align: left;
+	text-align: center;
 }
 /*.container-mastfoot {*/
 	/*position: fixed;*/
