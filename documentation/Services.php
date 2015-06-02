@@ -57,7 +57,7 @@
 								<ul class="nav masthead-nav">
 									<li><a href="http://lorchard.org/documentation/newhome.php">Home</a></li>
 									<li class="active">Services</a></li>
-									<li><a href="#">About</a></li>
+									<li><a href="http://lorchard.org/documentation/about.php">About</a></li>
 									<li><a href="#">Contact</a></li>
 								</ul>
 							</nav>

@@ -50,7 +50,7 @@
 								<ul class="nav masthead-nav">
 									<li class="active"><a href="#">Home</a></li>
 									<li><a href="http://lorchard.org/documentation/Services.php">Services</a></li>
-									<li><a href="#">About</a></li>
+									<li><a href="http://lorchard.org/documentation/about.php">About</a></li>
 									<li><a href="#">Contact</a></li>
 								</ul>
 							</nav>
