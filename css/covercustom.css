@@ -119,8 +119,11 @@ body {
 .inner {
 	padding: 30px;
 }
-
-
+/* for the about page*/
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
 /*
  * Header
  */
@@ -229,7 +232,7 @@ body {
 	font-weight: normal;
 }
 
-.container-about {
+.col-md-4 {
 	text-align: left;
 }
 

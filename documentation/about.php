@@ -56,55 +56,32 @@
 							</nav>
 						</div>
 					</div>
-<!--					<div class="container">-->
-<!--						<div class="row">-->
-<!--							<div class="col-lg-4">-->
-<!--								<h2>A little about me</h2>-->
-<!--								<p>I've taken to heart my mother's directive to "do something constructive". Whether-->
-<!--								creating fine art, tailoring, pouring concrete, or bettering myself, my intent has always been to-->
-<!--								be constructive, productive and leave a situation better than when I found it.<br />>-->
-<!--								An Ohioan by birth, and a New Yorker by choice, I discovered Santa Fe, New Mexico in 1993 on a-->
-<!--									painting trip and never left. The open skies of New Mexico are an invitation to remake yourself,-->
-<!--									and I find myself accepting that challenge over and over again.<br />-->
-<!--									The artistic and the technical sides of my creativity have led me to a variety of interesting-->
-<!--									careers that include everything from mural painting to project management and from ceramics to-->
-<!--									business process mapping.<br />-->
-<!---->
-<!--								</p>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</div>-->
 
-					<div class="inner cover">
-<!--						<h1 class="cover-heading">IT'S A BRAND NEW DAY</h1>-->
-<!--						<p class="lead">Show off who you are with a brand new site!</p-->
-						<div class="container-about">
-							<div class="col-lg-4"
+					<div class="container">
+						<div class="row">
+							<div class="col-md-4">
 							</div>
-							<div class="col-lg-4"
-
-							<h2>A little about me:</h2>
-							<p>I've taken to heart my mother's directive to "do something constructive". Whether
-						creating fine art, tailoring, pouring concrete, or bettering myself, my intent has always been to
-						be constructive, productive and leave a situation better than when I found it.<br />
-
-						An Ohioan by birth, and a New Yorker by choice, I discovered Santa Fe, New Mexico in 1993 on a
-						landscape painting trip and never left. The open skies of New Mexico are an invitation to remake yourself,
-						and I find myself accepting that challenge over and over again.<br />
-
-						Both the artistic and the technical sides of my creativity have led me to a variety of interesting
-						careers that include everything from mural painting to IT project management and from ceramics to
-						business process mapping. There's just something about Excel spreadsheets...<br />
-							</p>
+							<div class="col-md-4">
+								<h3>A little bit about me.</h3>
+								<p>I've taken to heart my mother's directive to "do something constructive". Whether
+									creating fine art, tailoring, pouring concrete, or bettering myself, my intent has always been to
+									be constructive, productive and leave a situation better than when I found it.<br>
+									<br>
+									An Ohioan by birth, and a New Yorker by choice, I discovered Santa Fe, New Mexico in 1993 on a
+									landscape painting trip and never left. The open skies of New Mexico are an invitation to remake yourself,
+									and I find myself accepting that challenge over and over again.<br>
+									<br>
+									Both the artistic and the technical sides of my creativity have led me to a variety of interesting
+									careers that include everything from mural painting to IT project management and from ceramics to
+									business process mapping. There's just something about Excel spreadsheets...</p>
 							</div>
-							<div class="col-lg-4"
+							<div class="col-md-4">
 							</div>
-						</div
-<!--						<p><a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you...</button></a></p>-->
-<!---->
-<!--					</div>-->
+						</div>
 
-					<div class="mastfoot">
+					</div><!-- /.container -->
+
+						<div class="mastfoot">
 						<div class="inner">
 							<p>Website by Laura O</p>
 						</div>
