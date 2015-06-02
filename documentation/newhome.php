@@ -35,41 +35,41 @@
 	</head>
 	<!--The actual page-->
 
-<body>
+	<body>
 
-	<div class="site-wrapper">
+		<div class="site-wrapper">
 
-		<div class="site-wrapper-inner">
+			<div class="site-wrapper-inner">
 
-			<div class="cover-container">
+				<div class="cover-container">
 
-				<div class="masthead clearfix">
-					<div class="inner">
-						<h3 class="masthead-brand">Laura Orchard</h3>
-						<nav>
-							<ul class="nav masthead-nav">
-								<li class="active"><a href="#">Home</a></li>
-								<li><a href="http://lorchard.org/documentation/Services.php">Services</a></li>
-								<li><a href="#">About</a></li>
-								<li><a href="#">Contact</a></li>
-							</ul>
-						</nav>
+					<div class="masthead clearfix">
+						<div class="inner">
+							<h3 class="masthead-brand">Laura Orchard</h3>
+							<nav>
+								<ul class="nav masthead-nav">
+									<li class="active"><a href="#">Home</a></li>
+									<li><a href="http://lorchard.org/documentation/Services.php">Services</a></li>
+									<li><a href="#">About</a></li>
+									<li><a href="#">Contact</a></li>
+								</ul>
+							</nav>
+						</div>
 					</div>
-				</div>
 
-				<div class="inner cover">
-					<h1 class="cover-heading">IT'S A BRAND NEW DAY</h1>
-					<p class="lead">Show off who you are with a brand new site!</p
-					<p><a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you...</button></a></p>
+					<div class="inner cover">
+						<h1 class="cover-heading">IT'S A BRAND NEW DAY</h1>
+						<p class="lead">Show off who you are with a brand new site!</p
+						<p><a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you...</button></a></p>
 
-				</div>
+					</div>
 
-				<div class="mastfoot">
-					<div class="inner">
-						<p>Website by Laura O</p>
+					<div class="mastfoot">
+						<div class="inner">
+							<p>Website by Laura O</p>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</body>
+	</body>

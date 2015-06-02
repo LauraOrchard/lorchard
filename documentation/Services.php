@@ -103,11 +103,10 @@
 
 					<div class="mastfoot">
 						<div class="inner">
-<!---->
+
 							<p>Website by Laura O</p>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</div>

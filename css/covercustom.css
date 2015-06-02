@@ -75,11 +75,11 @@ body {
 
 /* font modifications **/
 .h1, h1 {
-  font-size: 64px;
+	font-size: 64px;
 }
 .h1 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+	margin-top: 20px;
+	margin-bottom: 10px;
 }
 .h1, .h3, h1, h3 {
 	font-family: inherit;
@@ -167,53 +167,68 @@ body {
 	}
 	.lead {
 		font-size: 34px;
-}
+	}
 
 
-/*
- * Cover
- */
+	/*
+	 * Cover
+	 */
 
-.cover {
-	padding: 0 20px;
-}
-.cover .btn-lg {
-	padding: 10px 20px;
+	.cover {
+		padding: 0 20px;
+	}
+	.cover .btn-lg {
+		padding: 10px 20px;
 
-}
+	}
 
-/*
- * Flexbox
- *
-.container {
-	position: fixed;
-	display: flex;
-	align-items: flex-start;
-	justify-content: center;
-	flex-direction: row; */
+	/*
+	 * Flexbox
+	 *
+	.container {
+		position: fixed;
+		display: flex;
+		align-items: flex-start;
+		justify-content: center;
+		flex-direction: row; */
 }
 
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
+
+
 /* Center align the text within the three columns below the carousel */
+
+
+/*.marketing .col-lg-4 {*/
+	/*margin-bottom: 20px;*/
+	/*text-align: center;*/
+/*}*/
+/*.marketing h2 {*/
+	/*font-weight: normal;*/
+/*}*/
+/*.marketing .col-lg-4 p {*/
+	/*margin-right: 10px;*/
+	/*margin-left: 10px;*/
+/*}*/
 .container-marketing {
 	position: relative;
 	margin-right: auto;
 	margin-left: auto;
 	padding-top: 30px;
-}
+
 .marketing .col-lg-4 {
 	margin-bottom: 20px;
-	text-align: center;
-}
+	text-align: left;
+
 .marketing h2 {
 	font-weight: normal;
-}
+
 /*.marketing .col-lg-4 p {*/
-	/*margin-right: 10px;*/
-	/*margin-left: 10px;*/
+/*margin-right: 10px;*/
+/*margin-left: 10px;*/
 /*}*/
 /*
  * Footer
@@ -225,17 +240,17 @@ body {
 	text-align: center;
 }
 /*.container-mastfoot {*/
-	/*position: fixed;*/
-	/*margin-right: auto;*/
-	/*margin-left: auto;*/
-	/*padding-top: 30px;*/
+/*position: fixed;*/
+/*margin-right: auto;*/
+/*margin-left: auto;*/
+/*padding-top: 30px;*/
 /*}*/
 /*.mastfoot .col-lg-4 {*/
-	/*margin-bottom: 0px;*/
-	/*text-align: left;*/
+/*margin-bottom: 0px;*/
+/*text-align: left;*/
 /*}*/
 /*.mastfoot h3 {*/
-	/*font-weight: normal;*/
+/*font-weight: normal;*/
 
 
 /*
@@ -256,24 +271,23 @@ body {
 		position: fixed;
 		bottom: 0;
 	}
-	}
-	/* Start the vertical centering */
-	.site-wrapper-inner {
-		vertical-align: middle;
-	}
-	/* Handle the widths */
-	.masthead,
-	.mastfoot,
-	.cover-container {
-		width: 100%; /* Must be percentage or pixels for horizontal alignment */
-	}
+}
+/* Start the vertical centering */
+.site-wrapper-inner {
+	vertical-align: middle;
+}
+/* Handle the widths */
+.masthead,
+.mastfoot,
+.cover-container {
+	width: 100%; /* Must be percentage or pixels for horizontal alignment */
 }
 
-@media (min-width: 992px) {
-	.masthead,
-	.mastfoot,
-	.cover-container {
-		width: 700px;
-	}
 
-}
+/*@media (min-width: 992px) {*/
+	/*.masthead,*/
+	/*.mastfoot,*/
+	/*.cover-container {*/
+		/*width: 700px;*/
+	/*}*/
+
