@@ -10,7 +10,7 @@
 		<!--header include-->
 		<?php require_once("../lib/header.html"); ?>
 
-		<!--all content lives in here-->
+		<!--all content lives here-->
 		<main class="site-content">
 
 			<div class="container">

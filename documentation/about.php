@@ -33,7 +33,7 @@
 
 		<title>LOrchard.org</title>
 	</head>
-	<!--The actual page-->
+	<!--The actual page for Lorchard.-->
 
 	<body>
 
