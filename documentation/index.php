@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<!--this brings in all head links-->
-		<?php require_once("lib/head-utils.html"); ?>
+		<?php require_once("../lib/head-utils.html"); ?>
 		<title>Lorchard</title>
 	</head>
 	<body class="bg-sky site">
@@ -27,7 +27,7 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<p><h2>Let everyone know who you are with a brand new site!</h2></p>
+								<h2>Let everyone know who you are with a brand new site!</h2>
 							</div>
 						</div>
 					</div>
