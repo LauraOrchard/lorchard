@@ -1,0 +1,87 @@
+/********************************************
+* Custom CSS Styles for Sample Parallax
+* DDC Student Server Class Materials
+* bootcamp-coders.cnm.edu/classmaterials
+*
+* @author rlewis37@cnm.edu
+*
+* TABLE OF CONTENTS
+* ==================
+* 1. Primary Page Base Styles
+* 2. Navigation Styles
+* 3. Footer Syles
+* 4. Flexbox Sticky Footer Styles
+* 5. Slide Toggle Styles
+*
+********************************************/
+
+/********************************************
+* Primary Base Styles
+********************************************/
+body {
+	color: white;
+}
+
+a { color: white;}
+
+/*this is the background image*/
+.bg-sky {
+	background: url("../images/CloudCover.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+/********************************************
+* Navigation Styles
+********************************************/
+.navbar {
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+.welcome {
+	text-align: center;
+}
+
+.icon-bar {
+	background-color: white;
+}
+
+
+/********************************************
+* Footer Styles
+********************************************/
+.footer {
+	padding: 20px 0;
+}
+
+/********************************************
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+********************************************/
+.site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.site-content {
+	flex: 1;
+}
+
+/********************************************
+* slideToggle Placeholder Styles
+* Edit as you see fit
+********************************************/
+.qa-panel {
+	border: 1px solid;
+	padding: 20px;
+	margin-bottom: 15px;
+}
+
+#answer {
+	/*this hides the answer by default*/
+	display: none;
+}

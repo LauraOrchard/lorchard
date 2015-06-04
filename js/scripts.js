@@ -1,10 +1,11 @@
-/** collapse and expand the text
- *
- */
+$(document).ready(function(){
 
-$('.row .btn').on('click', function(e) {
-	e.preventDefault();
-	var $this = $(this);
-	var $collapse = $this.closest('.collapse-group').find('.collapse');
-	$collapse.collapse('toggle');
+	/*jQuery fadeIn*/
+	$('main').hide().fadeIn(2000);
+
+	/*jQuery slideToggle*/
+	$("#question").click(function(){
+		$("#answer").slideToggle("slow");
+	});
+
 });

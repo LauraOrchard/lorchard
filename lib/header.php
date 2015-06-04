@@ -1,0 +1,29 @@
+<!--header and navbar-->
+<header>
+	<nav class="navbar">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapsed">
+					<span class="sr-only">Main Menu</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+				<!--header branding for md and lg screens-->
+				<a class="navbar-brand hidden-xs hidden-sm" href="/">This is your logo on large screens</a>
+
+				<!--header branding for xs and sm screens-->
+				<a class="navbar-brand visible-xs-block visible-sm-block" href="/">logo for small screens</a>
+
+			</div>
+			<div class="collapse navbar-collapse" id="navbar-collapsed">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>

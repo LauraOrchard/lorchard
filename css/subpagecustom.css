@@ -136,7 +136,7 @@ body {
 /********************************************
 * Footer Styles
 ********************************************/
-footer {
+.footer {
 	background: #284271;
 	color: white;
 	font-weight: bold;
