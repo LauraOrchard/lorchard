@@ -20,14 +20,14 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<h2>Great Big Welcome Message!</h2>
+								<h1>IT'S A BRAND NEW DAY</h1>
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<p>Check out our magical product you want to purchase very much!</p>
+								<p><h2>Let everyone know who you are with a brand new site!</h2></p>
 							</div>
 						</div>
 					</div>
