@@ -8,7 +8,7 @@
 	<body class="bg-sky site">
 
 		<!--header include-->
-		<?php require_once("lib/header.html"); ?>
+		<?php require_once("../lib/header.html"); ?>
 
 		<!--all content lives in here-->
 		<main class="site-content">
