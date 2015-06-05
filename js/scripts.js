@@ -1,7 +1,9 @@
 $(document).ready(function(){
 
 	/*jQuery fadeIn*/
-	$('main').hide().fadeIn(2000);
+	$('main').hide(1000).fadeIn(3000);
+	$('navbar').hide(1000).fadeIn(3000);
+	$('footer').hide(1000).fadeIn(3000);
 
 	/*jQuery slideToggle*/
 	$("#question").click(function(){
