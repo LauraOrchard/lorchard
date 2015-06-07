@@ -13,14 +13,14 @@
 		<!--all content lives here-->
 		<main class="site-content">
 
-			<div class="container">
+			<div class="container" id="page-container">
 
 				<!--welcome message section-->
 				<section class="welcome">
 					<div class="row vertical-center-row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<div class="cover-heading"></div>
+								<div class="cover-heading">
 									<h1>IT'S A BRAND NEW DAY</h1>
 								</div>
 							</div>
