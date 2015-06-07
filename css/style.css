@@ -52,6 +52,7 @@ a { color: white;}
 .welcome {
 	text-align: center;
 	vertical-align: middle;
+	padding-bottom: 20px;
 }
 
 .icon-bar {
@@ -92,6 +93,7 @@ a { color: white;}
 
 .site-content {
 	flex: 1;
+	alignment: center;
 }
 
 /********************************************
@@ -145,10 +147,11 @@ a { color: white;}
 	font-size: 18px;
 	line-height: 1.33;
 	border-radius: 6px;
+	font-color: #ffffff;
 }
 
 .btn-primary {
-	color: transparent;
+	color: #fff;
 	background-color: transparent;
 	border-color: white;
 }
@@ -201,9 +204,9 @@ a { color: white;}
 	color: #fff;
 }
 
-/*.p {*/
-	/*font-size: 16px;*/
-/*}*/
+.p {
+	font-size: 16px;
+}
 
 /********************************************
 * Thumbnail Styles
@@ -232,7 +235,7 @@ a { color: white;}
 
 body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.42857143;
 	font-color: #fff;
 	color: #fff;!important

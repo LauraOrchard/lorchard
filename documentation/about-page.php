@@ -45,7 +45,7 @@
 							<div class="col-md-4">
 								<div class="para">
 								<p>An Ohioan by birth, and a New Yorker by choice, I discovered Santa Fe
-									in 1993 on a landscape painting trip and never left (sometimes there's just no way around a cliche.) The wide open sky of
+									in 1993 on a landscape painting trip and never left (sometimes there's just no way around a clich&#233;.) The wide open sky of
 									New Mexico is an invitation to remake yourself, and I find myself accepting
 									that challenge over and over again.<br />
 									<br />

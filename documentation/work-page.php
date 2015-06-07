@@ -20,8 +20,8 @@
 					<div class="row vertical-center-row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<div class="cover-heading">
-									<h1>Work I've contributed to</h1>
+								<div class="cover-subheading">
+									<h2>Work I've contributed to:</h2>
 								</div>
 							</div>
 						</div>
@@ -38,7 +38,7 @@
 									<div class="thumbnail">
 										<img src="../images/SFCFThumbnail.jpg" alt="Santa Fe Community Foundation Website">
 										<div class="caption">
-											<h3>Santa Fe Community Foundation Website</h3>
+											<h3><a href="https://www.santafecf.org">Santa Fe Community Foundation Website</a></h3>
 											<p>
 											<ul style="list-style-type:none">
 												<li><strong>Role:</strong> Project Manager, content creation, and maintenance.</li>
@@ -57,7 +57,7 @@
 									<div class="thumbnail">
 										<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
 										<div class="caption">
-											<h3>Orchard Studio Website</h3>
+											<h3><a href="http://www.lauraorchard.com"<h3>Orchard Studio Website</a></h3>
 <!--											<p>-->
 											<ul style="list-style-type:none">
 												<li><strong>Role:</strong> Design, development, photography, content, and maintenance.</li>
@@ -74,7 +74,7 @@
 									<div class="thumbnail">
 										<img src="../images/2013gtc.jpg" alt="2013 Giving Together Catalogue">
 										<div class="caption">
-											<h3>Giving Together Catalogue</h3>
+											<a href="../images/2013gtc.pdf"><h3>Giving Together Catalogue</h3></a>
 											<p>
 											<ul style="list-style-type:none">
 												<li><strong>Role:</strong> Project manager for original concept, design, development, and iterative

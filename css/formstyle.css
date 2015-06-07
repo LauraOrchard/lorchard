@@ -28,6 +28,7 @@
 form {
 	/*color: #1295FF;*/
 	color: #fff;
+	vertical-align: middle;
 }
 
 .form-group {
@@ -107,4 +108,9 @@ option {
 
 .no-option {
 	background: #dddddd;
+}
+
+form {
+	margin: 0 auto;
+	width:250px;
 }
