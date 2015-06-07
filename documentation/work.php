@@ -5,7 +5,7 @@
 		<?php require_once("../lib/head-utils.html"); ?>
 		<title>Lorchard</title>
 	</head>
-	<body class="bg-sky site">
+	<body class="bg-blue site">
 
 		<!--header include-->
 		<?php require_once("../lib/header.html"); ?>
@@ -33,7 +33,7 @@
 				<section>
 					<div class="row">
 						<col class="col-md-4">
-							<div class="row">
+<!--							<div class="row">-->
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
 										<img src="../images/SFCFThumbnail.jpg" alt="Santa Fe Community Foundation Website">
@@ -51,45 +51,45 @@
 										</div>
 									</div>
 								</div>
-							</div>
-							<div class="row">
+<!--							</div>-->
+
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
 										<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
 										<div class="caption">
 											<h3>Orchard Studio Website</h3>
-											<p>
+<!--											<p>-->
 											<ul style="list-style-type:none">
 												<li>Role: Design, development, photography, content, and maintenance.</li>
 												<li>Scope: New website to exhibit fine art.</li>
 												<li>Tools: iWeb</li>
 											</ul>
-											</p>
+<!--											</p>-->
 										</div>
 									</div>
 								</div>
-							</div>
-							<div class="row">
+
+<!--							<div class="row">-->
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
-										<img src="..." alt="2013 Giving Together Catalogue"><a href="../images/2013gtc.pdf" alt="2013 Giving Together Catalogue"</a>
+										<img src="../images/2013gtc.pdf" alt="2013 Giving Together Catalogue">
 										<div class="caption">
 											<h3>Giving Together Catalogue</h3>
 											<p>
 											<ul style="list-style-type:none">
-												<li>Role: Project manager for original concept, design, development, and iterative
+												<li><strong>Role:</strong> Project manager for original concept, design, development, and iterative
 													project management for print production portion each quarter.</li>
-												<li>Scope: Produce a branded catalogue of nonprofit grant applications with each grant cycle,
+												<li><strong>Scope:</strong> Produce a branded catalogue of nonprofit grant applications with each grant cycle,
 													 processing input from applications, and delivering the online and print versions to the
 													community.</li>
-												<li>Tools: InDesign, NetCommunity, and Proffer</li>
-												<li>Partner: Cisneros Design</li>
+												<li><strong>Tools:</strong> InDesign, NetCommunity, and Proffer</li>
+												<li><strong>Partner:</strong> Cisneros Design</li>
 											</ul>
 											</p>
 										</div>
 									</div>
 								</div>
-							</div>
+<!--							</div>-->
 						</div>
 					</div> <!--.row-->
 

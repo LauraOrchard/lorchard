@@ -211,15 +211,34 @@ a { color: white;}
 ********************************************/
 
 .thumbnail {
-	background: transparent;
-	font-color: white;
-	border-color: none;
+	display: block;
+	padding: 4px;
+	margin-bottom: 20px;
+	line-height: 1.42857143;
+	background-color: transparent;
+	/*border: 1px solid #ddd;*/
+	border-radius: 4px;
+	-webkit-transition: border .2s ease-in-out;
+	-o-transition: border .2s ease-in-out;
+	transition: border .2s ease-in-out;
 }
+.thumbnail {
+	background: transparent;
+	font-color: #fff;
+	border-color: transparent;
+	box-shadow: none;
+	/*border-shadow: none;*/
+}
+
 body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 14px;
 	line-height: 1.42857143;
-	font-color: white;
+	font-color: #fff;
 	color: #fff;
 	background-color: transparent;
+}
+
+.caption {
+	font-color: #fff;
 }
