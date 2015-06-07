@@ -38,12 +38,12 @@
 							<h3>Web Development</h3>
 
 							<!--This is the clickable paragraph div-->
-							<div class="para" id="question-1">
+							<div class="para" id="question">
 								<p>From concept to rollout, I help organizations that strive to benefit the world, and artists who need to share their creativity. More...</p>
 							</div>
 
 							<!--This is the addition info toggle-->
-							<div class="para" id="answer-1">
+							<div class="para" id="answer">
 								<p><strong>Projects:</strong></p>
 									<ul>
 									<li>Frood – a Deep Dive Coding Bootcamp capstone project with legs! Partners: Tim Deshler, Jason Griffin, Ella Haines.</li>
@@ -59,12 +59,12 @@
 						<div class="col-md-4">
 							<h3>Project Management</h3>
 							<!--This is the clickable paragraph div-->
-							<div class="para" id="question-2">
+							<div class="para" id="question">
 								<p>Even the smallest project needs a plan. From minimal add-ons to enterprise-level custom software, someone experienced in managing all type of projects can help make the going a lot easier. More...</p>
 							</div>
 
 							<!--This is the addition info toggle-->
-							<div class="para" id="answer-2">
+							<div class="para" id="answer">
 								<p><strong>Projects:</strong></p>
 								<ul>
 									<li>MoneyZen Wealth Management Business Process Manual – business process mapping and documentation.</li>
@@ -82,12 +82,12 @@
 						<div class="col-md-4">
 							<h3>Consulting</h3>
 							<!--This is the clickable paragraph div-->
-							<div class="para" id="question-3">
+							<div class="para" id="question">
 								<p>Sometimes all it takes is a nudge to get your team back on track and moving in the right direction. More...</p>
 							</div>
 
 							<!--This is the addition info toggle-->
-							<div class="para" id="answer-3">
+							<div class="para" id="answer">
 								<p><strong>Projects:</strong></p>
 								<ul>
 									<li>Facilitation of process mapping.</li>

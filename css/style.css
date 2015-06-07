@@ -104,18 +104,12 @@ a { color: white;}
 	margin-bottom: 5px;
 }
 
-#answer-1 {
+#answer {
 	/*this hides the answer by default*/
 	display: none;
 }
-#answer-2 {
-	/*this hides the answer by default*/
-	display: none;
-}
-#answer-3 {
-	/*this hides the answer by default*/
-	display: none;
-}
+
+
 
 /********************************************
 * Button Styles
@@ -153,7 +147,7 @@ a { color: white;}
 }
 
 .btn-primary {
-	color: #fff;
+	color: transparent;
 	background-color: transparent;
 	border-color: white;
 }
@@ -163,7 +157,7 @@ a { color: white;}
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-	color: #fff;
+	color: #284271;
 	background-color: transparent;
 	border-color: white;
 }
@@ -206,6 +200,6 @@ a { color: white;}
 	color: inherit;
 }
 
-.p {
-	font-size: 16px;
-}
+/*.p {*/
+	/*font-size: 16px;*/
+/*}*/

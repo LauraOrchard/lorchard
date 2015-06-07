@@ -39,7 +39,7 @@
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="cover-button centered">
-								<a href="http://lorchard.org/documentation/Services.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you...</button></a>
+								<a href="http://lorchard.org/documentation/services-page.php" button type="button" class="btn btn-primary btn-lg outline">Learn how I can help you...</button></a>
 								</div>
 							</div>
 						</div>

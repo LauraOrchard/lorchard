@@ -6,12 +6,8 @@ $(document).ready(function(){
 	$('footer').hide(1000).fadeIn(3000);
 
 	/*jQuery slideToggle*/
-	$("#question-1").click(function(){
-		$("#answer-1").slideToggle("slow");
-	$("#question-2").click(function(){
-		$("#answer-2").slideToggle("slow");
-	$("#question-3").click(function(){
-		$("#answer-3").slideToggle("slow");
-	});
+	$("#question").click(function(){
+		$("#answer").slideToggle("slow");
 
+	});
 });
