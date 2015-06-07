@@ -198,7 +198,7 @@ a { color: white;}
 	font-family: inherit;
 	font-weight: 300;
 	line-height: 1.5;
-	color: inherit;
+	color: #fff;
 }
 
 /*.p {*/
@@ -235,10 +235,19 @@ body {
 	font-size: 14px;
 	line-height: 1.42857143;
 	font-color: #fff;
-	color: #fff;
+	color: #fff;!important
 	background-color: transparent;
 }
 
-.caption {
-	font-color: #fff;
+.thumbnail .caption {
+	color: #fff;!important
+	alignment: left;
+}
+
+.p {
+	color: #fff;
+}
+img {
+	padding:6px;
+	border: 3px solid #fff;
 }

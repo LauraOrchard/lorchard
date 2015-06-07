@@ -41,11 +41,11 @@
 											<h3>Santa Fe Community Foundation Website</h3>
 											<p>
 											<ul style="list-style-type:none">
-												<li>Role: Project Manager, content creation, and maintenance.</li>
+												<li><strong>Role:</strong> Project Manager, content creation, and maintenance.</li>
 												<li>Scope: New website to allow the community to sign up for workshops and to allow the nonprofit
 													 community to apply for grant opportunities online.</li>
-												<li>Tools: NetCommunity and Proffer applications.</li>
-												<li>Partners: Cisneros Design; Blackbaud; Fusion Labs; SJ Consulting.</li>
+												<li><strong>Tools:</strong> NetCommunity and Proffer applications.</li>
+												<li><strong>Partners:</strong> Cisneros Design; Blackbaud; Fusion Labs; SJ Consulting.</li>
 											</ul>
 											</p>
 										</div>
@@ -60,9 +60,9 @@
 											<h3>Orchard Studio Website</h3>
 <!--											<p>-->
 											<ul style="list-style-type:none">
-												<li>Role: Design, development, photography, content, and maintenance.</li>
-												<li>Scope: New website to exhibit fine art.</li>
-												<li>Tools: iWeb</li>
+												<li><strong>Role:</strong> Design, development, photography, content, and maintenance.</li>
+												<li><strong>Scope:</strong> New website to exhibit fine art.</li>
+												<li><strong>Tools:</strong> iWeb</li>
 											</ul>
 <!--											</p>-->
 										</div>
@@ -72,7 +72,7 @@
 <!--							<div class="row">-->
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
-										<img src="../images/2013gtc.pdf" alt="2013 Giving Together Catalogue">
+										<img src="../images/2013gtc.jpg" alt="2013 Giving Together Catalogue">
 										<div class="caption">
 											<h3>Giving Together Catalogue</h3>
 											<p>
