@@ -28,7 +28,7 @@
 				<!-- The div class="form-wrap" is the black box containing the form. It's set to a column width of 12 for small screens, and a column width of 6 for medium screens on up -->
 				<div class="col-xs-12 col-md-6 form-wrap">
 					<!-- Form is centered within it's container, and is set to 10 be columns wide RELATIVE TO IT'S CONTAINER, and offset to the right by one column. See classes: col-xs-offset-1 & col-xs-10 -->
-					<form method="post" action="contact-email.php" id="sample-form" class="form-horizontal col-xs-10 col-xs-offset-1">
+					<form method="post" action="../controllers/contact-email.php" id="sample-form" class="form-horizontal col-xs-10 col-xs-offset-1">
 
 						<div class="form-group">
 							<!-- Labels for each field are places within a <label> tag. Use the "for" attribute. the class="control-label" is for styling. -->
