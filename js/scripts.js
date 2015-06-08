@@ -9,6 +9,13 @@ $(document).ready(function(){
 	$("#question").click(function(){
 		$("#answer").slideToggle("slow");
 
+	/**
+	 * this resets all form fields when the "Reset" button is clicked.
+	 **/
+	$("#reset-form").click(function() {
+		document.getElementById("sample-form").reset();
+		});
+
 	});
 });
 
