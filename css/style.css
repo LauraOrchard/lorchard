@@ -111,7 +111,14 @@ a { color: white;}
 	/*this hides the answer by default*/
 	display: none;
 }
-
+#answer2 {
+	/*this hides the answer by default*/
+	display: none;
+}
+#answer3 {
+	 /*this hides the answer by default*/
+	 display: none;
+ }
 
 
 /********************************************
@@ -178,12 +185,12 @@ a { color: white;}
 	padding-top: 150px;
 }
 
-.centered {
-	position: fixed;
-	top: 50%;
-	left: 50%;
+/*.centered {*/
+	/*position: fixed;*/
+	/*top: 50%;*/
+	/*left: 50%;*/
 	/* bring your own prefixes */
-	transform: translate(-50%, -50%);
+	/*transform: translate(-50%, -50%);*/
 }
 
 /********************************************
@@ -243,6 +250,7 @@ body {
 }
 
 .thumbnail .caption {
+	padding: 0;
 	color: #fff;!important
 	alignment: left;
 }
@@ -252,5 +260,6 @@ body {
 }
 img {
 	padding:6px;
+	margin:0;
 	border: 3px solid #fff;
 }

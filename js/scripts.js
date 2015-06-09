@@ -1,13 +1,20 @@
 $(document).ready(function(){
 
 	/*jQuery fadeIn*/
-	$('main').hide(1000).fadeIn(3000);
-	$('header').hide(1000).fadeIn(3000);
-	$('footer').hide(1000).fadeIn(3000);
+	$('main, header, footer').hide().fadeIn(3000);
 
 	/*jQuery slideToggle*/
-	$("#question").click(function(){
+	$("#question").click(function() {
 		$("#answer").slideToggle("slow");
+	});
+
+	$("#question2").click(function() {
+		$("#answer2").slideToggle("slow");
+	});
+
+	$("#question3").click(function() {
+		$("#answer3").slideToggle("slow");
+	});
 
 	/**
 	 * this resets all form fields when the "Reset" button is clicked.
@@ -16,6 +23,6 @@ $(document).ready(function(){
 		document.getElementById("sample-form").reset();
 		});
 
-	});
 });
+
 

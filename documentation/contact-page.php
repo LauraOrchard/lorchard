@@ -68,6 +68,22 @@
 									</div>
 								</form>
 								<div id="thanks" style="display:none;">Thank you for reaching out!
+									<!--below is the modal pop up for the submit button-->
+<!--									<div class="modal fade" id="modal-sm" tabindex="-1" role="dialog" aria-labelledby="smallModalLabel" aria-hidden="true">-->
+<!--										<div class="modal-dialog modal-sm">-->
+<!--											<div class="modal-content">-->
+<!--												<!--placing content into div class="modal-body" adds additional padding around content-->-->
+<!--												<div class="modal-body">-->
+<!--													<!-- close button -->-->
+<!--													<button type="button" class="close" data-dismiss="modal" aria-label="close">-->
+<!--														<span aria-hidden="true">&times;</span>-->
+<!--													</button>-->
+<!--													<!-- content paragraph -->-->
+<!--													<p>This is a simple, small modal that is good for displaying a simple message or something.</p>-->
+<!--												</div>-->
+<!--											</div>-->
+<!--										</div>-->
+<!--									</div>-->
 								</div>
 							</div> <!-- CLOSE FORM WRAP -->
 						</main>
