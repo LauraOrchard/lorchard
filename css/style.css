@@ -119,6 +119,11 @@ a { color: white;}
 	 /*this hides the answer by default*/
 	 display: none;
  }
+#question:hover,
+#question2:hover,
+#question3:hover {
+	cursor:pointer;
+}
 
 
 /********************************************

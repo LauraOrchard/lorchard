@@ -90,21 +90,21 @@
 			<!--Second Row-->
 <!--					<div class="row">-->
 <!--						<col class="col-md-4">-->
-							<div class="row">
-								<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
-									<div class="thumbnail">
-										<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
-										<div class="caption">
-											<h3><a href="http://www.lauraorchard.com"<h3>Orchard Studio Website</a></h3>
-												<p>
-													<strong>Role:</strong> Design, development, photography, content, and maintenance.<br />
-													<strong>Scope:</strong> New website to exhibit fine art.<br />
-													<strong>Tools:</strong> iWeb<br />
-												</p>
-										</div>
-									</div>
+					<div class="row">
+						<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
+							<div class="thumbnail">
+								<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
+								<div class="caption">
+									<h3><a href="http://www.lauraorchard.com"<h3>Orchard Studio Website</a></h3>
+										<p>
+											<strong>Role:</strong> Design, development, photography, content, and maintenance.<br />
+											<strong>Scope:</strong> New website to exhibit fine art.<br />
+											<strong>Tools:</strong> iWeb<br />
+										</p>
 								</div>
 							</div>
+						</div>
+					</div>
 <!--						</div>-->
 <!--					</div>-->
 				</section>

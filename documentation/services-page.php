@@ -39,7 +39,8 @@
 
 							<!--This is the clickable paragraph div-->
 							<div class="para" id="question">
-								<p>From concept to rollout, I help organizations that strive to benefit the world, and artists who need to share their creativity. More...</p>
+								<p>From concept to rollout, I help organizations that strive to benefit the world, and artists who need to share their creativity.<br />
+									Click for more...</p>
 							</div>
 
 							<!--This is the addition info toggle-->
@@ -60,7 +61,8 @@
 							<h3>Project Management</h3>
 							<!--This is the clickable paragraph div-->
 							<div class="para" id="question2">
-								<p>Even the smallest project needs a plan. From minimal add-ons to enterprise-level custom software, someone experienced in managing all type of projects can help make the going a lot easier. More...</p>
+								<p>Even the smallest project needs a plan. From minimal add-ons to enterprise-level custom software, someone experienced in managing all type of projects can help make the going a lot easier.<br />
+									Click for more...</p>
 							</div>
 
 							<!--This is the addition info toggle-->
@@ -83,7 +85,8 @@
 							<h3>Consulting</h3>
 							<!--This is the clickable paragraph div-->
 							<div class="para" id="question3">
-								<p>Sometimes all it takes is a nudge to get your team back on track and moving in the right direction. More...</p>
+								<p>Sometimes all it takes is a nudge to get your team back on track and moving in the right direction.<br />
+									Click for more...</p>
 							</div>
 
 							<!--This is the addition info toggle-->
