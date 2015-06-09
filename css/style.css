@@ -191,7 +191,7 @@ a { color: white;}
 	/*left: 50%;*/
 	/* bring your own prefixes */
 	/*transform: translate(-50%, -50%);*/
-}
+/*}*/
 
 /********************************************
 * Font Changes
@@ -252,13 +252,13 @@ body {
 .thumbnail .caption {
 	padding: 0;
 	color: #fff;!important
-	alignment: left;
+	/*alignment: left;*/
 }
 
 .p {
 	color: #fff;
 }
-img {
+.thumbnail >img {
 	padding:6px;
 	margin:0;
 	border: 3px solid #fff;

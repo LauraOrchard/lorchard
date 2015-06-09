@@ -40,51 +40,45 @@
 										<div class="caption">
 											<h3><a href="https://www.santafecf.org">Santa Fe Community Foundation Website</a></h3>
 											<p>
-											<ul style="list-style-type:none">
-												<li><strong>Role:</strong> Project Manager, content creation, and maintenance.</li>
-												<li>Scope: New website to allow the community to sign up for workshops and to allow the nonprofit
-													 community to apply for grant opportunities online.</li>
-												<li><strong>Tools:</strong> NetCommunity and Proffer applications.</li>
-												<li><strong>Partners:</strong> Cisneros Design; Blackbaud; Fusion Labs; SJ Consulting.</li>
-											</ul>
+												<strong>Role:</strong> Project Manager, content creation, and maintenance.<br />
+												Scope: New website to allow the community to sign up for workshops and to allow the nonprofit
+													 community to apply for grant opportunities online.<br />
+												<strong>Tools:</strong> NetCommunity and Proffer applications.<br />
+												<strong>Partners:</strong> Cisneros Design; Blackbaud; Fusion Labs; SJ Consulting.<br />
 											</p>
 										</div>
 									</div>
 								</div>
-<!--							</div>-->
+
 
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
 										<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
 										<div class="caption">
 											<h3><a href="http://www.lauraorchard.com"<h3>Orchard Studio Website</a></h3>
-<!--											<p>-->
-											<ul style="list-style-type:none">
-												<li><strong>Role:</strong> Design, development, photography, content, and maintenance.</li>
-												<li><strong>Scope:</strong> New website to exhibit fine art.</li>
-												<li><strong>Tools:</strong> iWeb</li>
-											</ul>
-<!--											</p>-->
+											<p>
+												<strong>Role:</strong> Design, development, photography, content, and maintenance.<br />
+												<strong>Scope:</strong> New website to exhibit fine art.<br />
+												<strong>Tools:</strong> iWeb<br />
+											</p>
 										</div>
 									</div>
 								</div>
 
-<!--							<div class="row">-->
+
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
 										<img src="../images/2013gtc.jpg" alt="2013 Giving Together Catalogue">
 										<div class="caption">
-											<a href="../images/2013gtc.pdf"><h3>Giving Together Catalogue</h3></a>
+											<h3><a href="../images/2013gtc.pdf">Giving Together Catalogue</a></h3>
 											<p>
-											<ul style="list-style-type:none">
-												<li><strong>Role:</strong> Project manager for original concept, design, development, and iterative
-													project management for print production portion each quarter.</li>
-												<li><strong>Scope:</strong> Produce a branded catalogue of nonprofit grant applications with each grant cycle,
+												<strong>Role:</strong> Project manager for original concept, design, development, and iterative
+													project management for print production portion each quarter.<br />
+												<strong>Scope:</strong> Produce a branded catalogue of nonprofit grant applications with each grant cycle,
 													 processing input from applications, and delivering the online and print versions to the
-													community.</li>
-												<li><strong>Tools:</strong> InDesign, NetCommunity, and Proffer</li>
-												<li><strong>Partner:</strong> Cisneros Design</li>
-											</ul>
+													community.<br />
+												<strong>Tools:</strong> InDesign, NetCommunity, and Proffer<br />
+												<strong>Partner:</strong> Cisneros Design<br />
 											</p>
 										</div>
 									</div>
@@ -93,6 +87,26 @@
 						</div>
 					</div> <!--.row-->
 
+			<!--Second Row-->
+<!--					<div class="row">-->
+<!--						<col class="col-md-4">-->
+							<div class="row">
+								<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
+									<div class="thumbnail">
+										<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
+										<div class="caption">
+											<h3><a href="http://www.lauraorchard.com"<h3>Orchard Studio Website</a></h3>
+												<p>
+													<strong>Role:</strong> Design, development, photography, content, and maintenance.<br />
+													<strong>Scope:</strong> New website to exhibit fine art.<br />
+													<strong>Tools:</strong> iWeb<br />
+												</p>
+										</div>
+									</div>
+								</div>
+							</div>
+<!--						</div>-->
+<!--					</div>-->
 				</section>
 
 			</div><!--.container-->
