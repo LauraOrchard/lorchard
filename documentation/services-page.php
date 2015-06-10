@@ -34,7 +34,8 @@
 					<!--begin 1/3 column content layout-->
 				<!--WEB DEVELOPMENT-->
 					<div class="row">
-						<div class="col-md-4">
+<!--						<div class="col-md-4">-->
+						<div class="col-sm-6 col-md-4">
 							<h3>Web Development</h3>
 
 							<!--This is the clickable paragraph div-->
@@ -57,7 +58,8 @@
 
 
 						<!--PROJECT MANAGEMENT-->
-						<div class="col-md-4">
+<!--						<div class="col-md-4">-->
+						<div class="col-sm-6 col-md-4">
 							<h3>Project Management</h3>
 							<!--This is the clickable paragraph div-->
 							<div class="para" id="question2">
@@ -81,7 +83,8 @@
 
 
 						<!--CONSULTING-->
-						<div class="col-md-4">
+<!--						<div class="col-md-4">-->
+						<div class="col-sm-6 col-md-4">
 							<h3>Consulting</h3>
 							<!--This is the clickable paragraph div-->
 							<div class="para" id="question3">
