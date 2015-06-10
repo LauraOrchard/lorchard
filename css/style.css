@@ -229,6 +229,7 @@ a { color: white;}
 	display: block;
 	padding: 4px;
 	margin-bottom: 20px;
+	width: 310px;
 	line-height: 1.42857143;
 	background-color: transparent;
 	/*border: 1px solid #ddd;*/
@@ -264,6 +265,7 @@ body {
 	color: #fff;
 }
 .thumbnail >img {
+	padding-left: 15px;
 	padding:6px;
 	margin:0;
 	border: 3px solid #fff;

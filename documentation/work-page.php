@@ -68,17 +68,17 @@
 
 								<div class="col-sm-6 col-md-4">
 									<div class="thumbnail">
-										<img src="../images/2013gtc.jpg" alt="2013 Giving Together Catalogue">
+										<img src="../images/FroodScreen.jpg.jpg" alt="Frood">
 										<div class="caption">
-											<h3><a href="../images/2013gtc.pdf">Giving Together Catalogue</a></h3>
+											<h3><a href="https://bootcamp-coders.cnm.edu/~lorchard/frood/">Frood!</a></h3>
 											<p>
-												<strong>Role:</strong> Project manager for original concept, design, development, and iterative
-													project management for print production portion each quarter.<br />
-												<strong>Scope:</strong> Produce a branded catalogue of nonprofit grant applications with each grant cycle,
-													 processing input from applications, and delivering the online and print versions to the
-													community.<br />
-												<strong>Tools:</strong> InDesign, NetCommunity, and Proffer<br />
-												<strong>Partner:</strong> Cisneros Design<br />
+												<strong>Role:</strong> Team member for concept development, programming and front end development
+												for a social media restaurant selection site.<br />
+												<strong>Scope:</strong> Deep Dive Coding Bootcamp: Produce a web application that will
+												ensure that PHP, mySQL, JavaScript, jQuery, CSS, and HTML are all used to industry
+												standards as an example of our programming skills.<br />
+												<strong>Tools:</strong> PHPStorm, GitHub, Asana, Slack<br />
+												<strong>Partners:</strong> Tim Deshler, Jason Griffin, and Ella Haines<br />
 											</p>
 										</div>
 									</div>
@@ -93,14 +93,18 @@
 					<div class="row">
 						<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-4">
 							<div class="thumbnail">
-								<img src="../images/LMOsite.jpg" alt="Orchard Studio Website">
+								<img src="../images/2013gtc.jpg" alt="2013 Giving Together Catalogue">
 								<div class="caption">
-									<h3><a href="http://www.lauraorchard.com"<h3>Orchard Studio Website</a></h3>
-										<p>
-											<strong>Role:</strong> Design, development, photography, content, and maintenance.<br />
-											<strong>Scope:</strong> New website to exhibit fine art.<br />
-											<strong>Tools:</strong> iWeb<br />
-										</p>
+									<h3><a href="../images/2013gtc.pdf">Giving Together Catalogue</a></h3>
+									<p>
+										<strong>Role:</strong> Project manager for original concept, design, development, and iterative
+										project management for print production portion each quarter.<br />
+										<strong>Scope:</strong> Produce a branded catalogue of nonprofit grant applications with each grant cycle,
+										processing input from applications, and delivering the online and print versions to the
+										community.<br />
+										<strong>Tools:</strong> InDesign, NetCommunity, and Proffer<br />
+										<strong>Partner:</strong> Cisneros Design<br />
+									</p>
 								</div>
 							</div>
 						</div>
