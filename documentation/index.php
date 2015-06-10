@@ -3,6 +3,8 @@
 	<head>
 		<!--this brings in all head links-->
 		<?php require_once("../lib/head-utils.html"); ?>
+		<link rel="shortcut icon" href="../images/favicon.ico" type="image/icon">
+
 		<title>Lorchard</title>
 	</head>
 	<body class="bg-sky site">
