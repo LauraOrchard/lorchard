@@ -12,9 +12,9 @@ $headers .= 'Reply-To: '.$field_email."\r\n";
 $mail_status = mail($mail_to, $subject, $body_message, $headers);
 if ($mail_status) { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Thank you for connecting with me. I will respond to you shortly.');
+		alert('Your email was sent!');
 		//		alter the below location once this is migrated to production
-		window.location = '../draft/in-progress1_1.html';
+		window.location = 'thankyou.php';
 	</script>
 <?php
 }
