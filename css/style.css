@@ -110,20 +110,20 @@ a { color: white;}
 #answer {
 	/*this hides the answer by default*/
 	display: none;
-	padding: 5px;
-	background-color: rgba(40, 66, 113, 0.25);
+	padding: 10px;
+	background-color: rgba(40, 66, 113, 0.15);
 }
 #answer2 {
 	/*this hides the answer by default*/
 	display: none;
-	padding: 5px;
-	background-color: rgba(40, 66, 113, 0.25);
+	padding: 10px;
+	background-color: rgba(40, 66, 113, 0.15);
 }
 #answer3 {
 	 /*this hides the answer by default*/
 	display: none;
-	padding: 5px;
-	background-color: rgba(40, 66, 113, 0.25);
+	padding: 10px;
+	background-color: rgba(40, 66, 113, 0.15);
  }
 #question:hover,
 #question2:hover,

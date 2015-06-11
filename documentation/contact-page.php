@@ -22,7 +22,7 @@
 							<li>(505) 501-1560</li>
 							<li>orchard.laura@gmail.com</li>
 							<li></li><br />
-							<li>Send me a note by filling out the contact form below.</li>
+							<li>You can send me a note by filling out the contact form below.</li>
 						</ul>
 					</div>
 				</div>
@@ -33,7 +33,7 @@
 						<!-- The div class="form-wrap" is the black box containing the form. It's set to a column width of 12 for small screens, and a column width of 6 for medium screens on up -->
 						<div class="col-xs-12 col-md-6 form-wrap">
 							<!-- Form is centered within it's container, and is set to 10 be columns wide RELATIVE TO IT'S CONTAINER, and offset to the right by one column. See classes: col-xs-offset-1 & col-xs-10 -->
-							<form method="post" action="contact.php" id="sample-form" class="form-horizontal col-xs-10 col-xs-offset-1">
+							<form method="post" action="email.php" id="contact-form" class="form-horizontal col-xs-10 col-xs-offset-1">
 
 
 
@@ -41,8 +41,6 @@
 									<!-- Labels for each field are places within a <label> tag. Use the "for" attribute. the class="control-label" is for styling. -->
 									<label for="inputName1" class="control-label">Name</label>
 									<!-- the div class="input-group" contains both the text field and the icon to the left -->
-
-
 									<div class="input-group">
 										<!-- this div and span contains the glyphicon to the left. aria-hidden is so that screen readers don't read this element -->
 										<div class="input-group-addon">
@@ -76,8 +74,9 @@
 
 								<div class="form-group">
 									<!-- the following <a> tag has been styled as a button with class="btn" -->
-									<button id="contact-submit" type="submit" class="btn" <a href="#">Submit</button></a>
+									<button id="contact-submit" type="submit" class="btn" <a href="/documentation/email.php">Submit</button></a>
 								</div>
+								<div class="outputArea"></div>
 
 
 							</form>
