@@ -74,7 +74,7 @@
 
 								<div class="form-group">
 									<!-- the following <a> tag has been styled as a button with class="btn" -->
-									<button id="contact-submit" type="submit" class="btn" <a href="/documentation/email.php">Submit</button></a>
+									<button id="contact-submit" type="submit" class="btn" <a href="/documentation/tyleremail.php">Submit</button></a>
 								</div>
 								<div class="outputArea"></div>
 
