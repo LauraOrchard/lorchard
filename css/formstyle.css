@@ -28,7 +28,7 @@
 form {
 	/*color: #1295FF;*/
 	color: #fff;
-	vertical-align: middle;
+	/*vertical-align: middle;*/
 }
 
 .form-group {
@@ -74,7 +74,7 @@ label {
 	border-color: #fff;
 	border-radius: 0;
 	box-shadow: none;
-	color: #fff;
+	color: #284271;
 	text-shadow: none;
 	transition: all 250ms ease;
 	-moz-transition: all 250ms ease;
@@ -88,7 +88,7 @@ label {
 	background: #fff;
 	border-color: #ccc;
 	box-shadow: none;
-	color: #000;
+	color: #284271;
 }
 
 input.form-control,
