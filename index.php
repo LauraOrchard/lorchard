@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<!--this brings in all head links-->
-		<?php require_once("../lib/head-utils.html"); ?>
+		<?php require_once("lib/head-utils.html"); ?>
 		<link rel="shortcut icon" href="images/favicon.ico" type="image/icon">
 
 		<title>Lorchard</title>
@@ -10,7 +10,7 @@
 	<body class="bg-sky site">
 
 		<!--header include-->
-		<?php require_once("../lib/header.html"); ?>
+		<?php require_once("lib/header.html"); ?>
 
 		<!--all content lives here-->
 		<main class="site-content">
@@ -54,7 +54,7 @@
 		</main>
 
 		<!--footer include-->
-		<?php require_once("../lib/footer.html"); ?>
+		<?php require_once("lib/footer.html"); ?>
 
 	</body>
 </html>
