@@ -22,7 +22,8 @@
 							<li>(505) 501-1560</li>
 							<li>orchard.laura@gmail.com</li>
 							<li></li><br />
-							<li>You can send me a note by filling out the contact form below.</li>
+							<li>Please email me using the address shown above. <br />
+								Using the form below will make you question your sanity.</li>
 						</ul>
 					</div>
 				</div>
