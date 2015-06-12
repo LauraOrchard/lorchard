@@ -12,34 +12,26 @@ $(document).ready(function(){
 
 		// rules define what is good/bad input
 		rules: {
-			// each rule starts with the inputs name (NOT id)
-			textName1: {
-				maxlength: 75,
+			txtName1: {
 				required: true
 			},
 			email1: {
-				maxlength: 140,
 				required: true
 			},
-			txtareaComments: {
-				maxlength: 140,
+			txtComments: {
 				required: true
 			}
 		},
-
-		// error messages to display to the end user
+		//error messages to display to the end user
 		messages: {
-			textName1: {
-				maxlength: "Name is too long",
-				required: "Please shorted your entry"
+			txtName1: {
+				required: "Please include your name."
 			},
 			email1: {
-				maxlength: "Email address is too long.",
-				required: "Please enter valid email address"
+				required: "Add your email address."
 			},
-			txtareaComments: {
-				maxlength: "Your comment is too long.",
-				required: "Please enter up to 500 characters"
+			txtComments: {
+				required: "Please include a message."
 			}
 		},
 
@@ -52,21 +44,15 @@ $(document).ready(function(){
 				url: "/controllers/email.php",
 				// TL; DR: reformat POST data
 				data: $(form).serialize(),
+				target: "#outputArea",
 				// success is an event that happens when the server replies
 				success: function(ajaxOutput) {
-					// clear the output area's formatting
-					$("#outputArea").css("display", "");
-					// write the server's reply to the output area
-					$("#outputArea").html(ajaxOutput);
-
-
-					// reset the form if it was successful
-					// this makes it easier to reuse the form again
-					if($(".alert-success").length >= 1) {
-						$(form)[0].reset();
+						//clear the form
+						$(form).resetForm();
 					}
-				}
-			});
+				});
+			return(false);
 		}
+
 	});
 });
