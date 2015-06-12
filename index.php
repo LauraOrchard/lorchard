@@ -22,8 +22,11 @@
 					<div class="row vertical-center-row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<div class="cover-heading">
+								<div class="cover-heading hidden-xs hidden-sm">
 									<h1>IT'S A BRAND NEW DAY</h1>
+								</div>
+								<div class="cover-heading visible-xs-block visible-sm-block">
+									<h2>IT'S A BRAND NEW DAY</h2>
 								</div>
 							</div>
 						</div>
@@ -31,8 +34,11 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="col-md-8 col-md-offset-2">
-								<div class="cover-subheading">
+								<div class="cover-subheading hidden-xs hidden-sm">
 								<h2>Show off who you are with a brand new site!</h2>
+								</div>
+								<div class="cover-subheading visible-xs-block visible-sm-block">
+									<h3>Show off who you are with a brand new site!</h3>
 								</div>
 							</div>
 						</div>

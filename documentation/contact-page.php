@@ -23,7 +23,7 @@
 							<li>orchard.laura@gmail.com</li>
 							<li></li><br />
 							<li>Please email me using the address shown above. <br />
-								Using the form below will make you question your sanity.</li>
+								Using the form below may cause you to question your sanity.</li>
 						</ul>
 					</div>
 				</div>
