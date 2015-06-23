@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!--this brings in all head links-->
+		<!--all head links-->
 		<?php require_once("../lib/head-utils.html"); ?>
 		<title>Lorchard</title>
 	</head>
@@ -31,7 +31,7 @@
 
 	<!--						<main class="container">-->
 				<div class="row">
-						<!-- The div class="form-wrap" is the black box containing the form. It's set to a column width of 12 for small screens, and a column width of 6 for medium screens on up -->
+						<!-- The div class="form-wrap" contains the form. It's set to a column width of 12 for small screens, and a column width of 6 for medium screens on up -->
 						<div class="col-xs-12 col-md-6 form-wrap">
 							<!-- Form is centered within it's container, and is set to 10 be columns wide RELATIVE TO IT'S CONTAINER, and offset to the right by one column. See classes: col-xs-offset-1 & col-xs-10 -->
 							<form method="post" action="email.php" id="contact-form" class="form-horizontal col-xs-10 col-xs-offset-1">

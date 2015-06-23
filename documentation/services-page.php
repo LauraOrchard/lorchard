@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!--this brings in all head links-->
+		<!--all head links-->
 		<?php require_once("../lib/head-utils.html"); ?>
 		<title>Lorchard</title>
 	</head>
@@ -15,7 +15,7 @@
 
 			<div class="container" id="page-container">
 
-				<!--welcome message section-->
+				<!--title section-->
 				<section class="welcome">
 					<div class="row vertical-center-row">
 						<div class="col-xs-12">

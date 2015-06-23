@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!--this brings in all head links-->
+		<!--all head links-->
 		<?php require_once("../lib/head-utils.html"); ?>
 		<title>Lorchard</title>
 	</head>
@@ -15,7 +15,7 @@
 
 			<div class="container" id="page-container">
 
-				<!--welcome message section-->
+				<!--title section-->
 				<section class="welcome">
 					<div class="row vertical-center-row">
 						<div class="col-xs-12">
@@ -29,7 +29,7 @@
 				</section>
 
 
-				<!--begin 1/3 column thumbnails-->
+				<!--begin row one 1/3 column thumbnails-->
 				<section>
 					<div class="row">
 <!--						<div class="col-md-4">-->
@@ -67,9 +67,9 @@
 
 							<div class="col-sm-6 col-md-4">
 								<div class="thumbnail">
-									<img src="../images/FroodScreen.jpg" alt="Frood">
+									<img src="../images/FroodScreen.jpg" alt="Froodies!">
 									<div class="caption">
-										<h3><a href="https://bootcamp-coders.cnm.edu/~lorchard/frood/">Frood!</a></h3>
+										<h3><a href="https://bootcamp-coders.cnm.edu/~lorchard/frood/">Froodies!</a></h3>
 										<p>
 											<strong>Role:</strong> Team member for concept development, programming and front end development
 											for a social media restaurant selection site.<br />
@@ -84,20 +84,19 @@
 							</div> <!--.col-->
 <!--						</div><!--.col-->
 					</div><!--.row-->
-<!--SECOND ROW-->
+<!--START SECOND ROW-->
 					<div class="row">
 						<!--						<div class="col-md-4">-->
 						<div class="col-sm-6 col-md-4">
 							<div class="thumbnail">
-<!--								<img src="../images/SFCFThumbnail.jpg" alt="Santa Fe Community Foundation Website">-->
+<!--								<img src="../images/Thumbnail.jpg" alt="alt text">-->
 <!--								<div class="caption">-->
-<!--									<h3><a href="https://www.santafecf.org">Santa Fe Community Foundation Website</a></h3>-->
+<!--									<h3><a href="#">Linked text</a></h3>-->
 <!--									<p>-->
-<!--										<strong>Role:</strong> Project Manager, content creation, and maintenance.<br />-->
-<!--										Scope: New website to allow the community to sign up for workshops and to allow the nonprofit-->
-<!--										community to apply for grant opportunities online.<br />-->
-<!--										<strong>Tools:</strong> NetCommunity and Proffer applications.<br />-->
-<!--										<strong>Partners:</strong> Cisneros Design; Blackbaud; Fusion Labs; SJ Consulting.<br />-->
+<!--										<strong>Role:</strong> Text.<br />-->
+<!--										Scope: Text.<br />-->
+<!--										<strong>Tools:</strong> Text.<br />-->
+<!--										<strong>Partners:</strong> Text.<br />-->
 <!--									</p>-->
 <!--								</div>-->
 							</div><!--.thumbnail-->
@@ -125,17 +124,14 @@
 
 						<div class="col-sm-6 col-md-4">
 							<div class="thumbnail">
-<!--								<img src="../images/FroodScreen.jpg" alt="Frood">-->
+<!--								<img src="../images/Thumbnail.jpg" alt="alt text">-->
 <!--								<div class="caption">-->
-<!--									<h3><a href="https://bootcamp-coders.cnm.edu/~lorchard/frood/">Frood!</a></h3>-->
+<!--									<h3><a href="#">Linked text</a></h3>-->
 <!--									<p>-->
-<!--										<strong>Role:</strong> Team member for concept development, programming and front end development-->
-<!--										for a social media restaurant selection site.<br />-->
-<!--										<strong>Scope:</strong> Deep Dive Coding Bootcamp: Produce a web application that will-->
-<!--										ensure that PHP, mySQL, JavaScript, jQuery, CSS, and HTML are all used to industry-->
-<!--										st--><!--lls.<br />-->
-<!--										<strong>Tools:</strong> PHPStorm, GitHub, Asana, Slack<br />-->
-<!--										<strong>Partners:</strong> Tim Deshler, Jason Griffin, and Ella Haines<br />-->
+<!--										<strong>Role:</strong> Text.<br />-->
+<!--										<strong>Scope:</strong> Text.<br />-->
+<!--										<strong>Tools:</strong> Textk<br />-->
+<!--										<strong>Partners:</strong> Text<br />-->
 <!--									</p>-->
 <!--								</div>-->
 							</div><!--.thumbnail-->

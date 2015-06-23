@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!--this brings in all head links-->
+		<!--all the head links-->
 		<?php require_once("lib/head-utils.html"); ?>
 		<link rel="shortcut icon" href="images/favicon.ico" type="image/icon">
 
